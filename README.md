@@ -1,6 +1,6 @@
 # The Jordanian Strategy For Artificial Intelligence
 <p align="center">
- <img height="200x" src="images/ai_strategy_and_implementation_plan-_final (2)-001.jpg" />
+ <imgfix src="images/ai_strategy_and_implementation_plan-_final (2)-001.jpg" />
 </p>
 The Jordanian strategy for artificial intelligence and the implementation plan 2023-2027 
  
