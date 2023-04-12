@@ -5,7 +5,7 @@
 The Jordanian strategy for artificial intelligence and the implementation plan 2023-2027 
  
 
-- [Introduction](#wave-introduction)
+- [Introduction](#introduction)
 - [Guidelines](#guidelines)
 - [Project ideas](#project-ideas)
 - [Team](#team)
