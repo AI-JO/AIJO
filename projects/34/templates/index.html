@@ -1,0 +1,68 @@
+<html>
+  <head>
+    <meta name="viewport" content="width-device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Play&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>الكشف عن الأمراض</title>
+
+    <meta name="theme-color" content="#ffffff" />
+  </head>
+
+  <body lang="ar" style="direction: rtl">
+    <div class="very_main">
+      <header>
+        <div class="top_frame">
+          <h1>
+            نظام يمكنه تحميل صورة أشعة سينية والكشف عن الأمراض تلقائيًا باستخدام
+            الذكاء الاصطناعي
+          </h1>
+        </div>
+      </header>
+
+      {% extends "base.html" %} {% block content %}
+
+      <h2>تم تصميمه من طرف صلاح الدين خنفر</h2>
+
+      <p class="description">
+        اختر الملف المرئي للأشعة السينية للركبة (حاليا لركبة فقط) وانقر فوق
+        "توقع" للحصول على الصورة تشخبص.
+      </p>
+
+      <div>
+        <form id="upload-file" method="POST" enctype="multipart/form-data">
+          <label for="imageUpload" class="upload-label">
+            حدد صورة الأشعة السينية (حاليا لركبة فقط)
+          </label>
+          <input
+            type="file"
+            name="file"
+            id="imageUpload"
+            accept=".png, .jpg, .jpeg"
+          />
+        </form>
+
+        <div class="image-section" style="display: none">
+          <div class="img-preview">
+            <div id="imagePreview"></div>
+          </div>
+          <div>
+            <button type="button" class="upload-label" id="btn-predict">
+              توقع!
+            </button>
+          </div>
+        </div>
+
+        <div class="loader" style="display: none"></div>
+
+        <h3 id="result">
+          <span> </span>
+        </h3>
+      </div>
+    </div>
+
+    {% endblock %}
+  </body>
+</html>
