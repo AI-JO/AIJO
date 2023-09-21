@@ -20,9 +20,10 @@ if you need open this project in local :
 
 3-run file app.py 
 
-'''
+```
 py app.py
-'''
+
+```
 
 4-upload image from test_samples file 
 
