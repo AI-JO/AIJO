@@ -11,14 +11,18 @@ if you need open this project in local :
 
 2- download this library :
 
--opencv-python
--numpy
--flask
--keras
--tensorflow
+- opencv-python
+- numpy
+- flask
+- keras
+- tensorflow
 
 
 3-run file app.py 
+
+'''
+py app.py
+'''
 
 4-upload image from test_samples file 
 
