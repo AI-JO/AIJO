@@ -8,7 +8,7 @@
 
 When there's a lot of people needing medical attention at the emergency room, scheduling becomes crucial. It's about deciding who gets treated first based on how sick they are and how many medical staff are available. Here are the main steps:
 
- #### 1 - Assessing the situation:
+<h4 1 - Assessing the situation >:
 Patients are evaluated based on how severe their health condition is and how urgently they need care.
 
 #### 2- Prioritization:
