@@ -33,7 +33,7 @@ The project will be a mobile application using the hospital system
 To create a database that tracks the number of patients, along with the time taken for each patient, in the hall of each hospital, you'll need to design an appropriate schema and set up a mechanism to update the database with this information periodically ( e.g., every minute).
 - Database Schema Design:
 -
-  ```
+```
 Table: Hospital
 Columns:
 - HospitalID (Primary Key)
