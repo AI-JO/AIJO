@@ -49,7 +49,17 @@ Columns:
 - TimeOut (timestamp of when the patient left the hall, null if still in the hall)
 
   ```
-like this :
 <img src="https://raw.githubusercontent.com/salahkhenfer/AIJO/main/projects/35/Screenshot%202023-09-22%20164207.png" >
+
+- Database Setup:
+
+Set up a database using a database management system (e.g., MySQL, PostgreSQL) and create the tables according to the designed schema.
+
+- Script to Update Patient Information:
+
+Write a script or program that runs every minute to update patient information. This script would query the database to get the current patient count for each hospital and update the patient records with the time taken for each patient.
+- Choosing Hospital with Least Patients:
+
+To choose the hospital with the least number of patients
 
 
