@@ -32,7 +32,7 @@ The project will be a mobile application using the hospital system
 ### As Back-end : 
 To create a database that tracks the number of patients, along with the time taken for each patient, in the hall of each hospital, you'll need to design an appropriate schema and set up a mechanism to update the database with this information periodically ( e.g., every minute).
 - Database Schema Design:
--
+
 ```
 Table: Hospital
 Columns:
@@ -49,3 +49,7 @@ Columns:
 - TimeOut (timestamp of when the patient left the hall, null if still in the hall)
 
   ```
+like this :
+<img src="https://raw.githubusercontent.com/salahkhenfer/AIJO/main/projects/35/Screenshot%202023-09-22%20164207.png" >
+
+
