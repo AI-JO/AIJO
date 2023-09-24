@@ -1,14 +1,13 @@
 # Project 37
 <img src="https://raw.githubusercontent.com/salahkhenfer/AIJO/main/images/ai_strategy_and_implementation_plan-_final%20(2)-070.jpg">
 Building a website that incorporates AI-driven performance evaluation for teachers based on student achievement rates involves several steps, including web development, integration of AI models, data analysis, and creating a user-friendly interface. Here's a step-by-step guide to help you get started:
-## Choose the Right Technologies:
-#### Web Development Stack:
 
+## Choose the Right Technologies :
+#### Web Development Stack :
 Front-end: HTML, CSS, JavaScript, and a framework like React, Angular, or Vue.js for dynamic interfaces.
 Back-end: Choose a server-side technology such as Node.js, Python (Django, Flask), Ruby (Ruby on Rails), or PHP.
 Database: Use a database system that suits your needs, such as PostgreSQL, MySQL, or MongoDB.
 #### AI and Data Analysis:
-
 Utilize AI frameworks and libraries like TensorFlow, PyTorch, or scikit-learn for building and integrating AI models.
 Choose suitable data analysis tools like Pandas, NumPy, and Jupyter Notebook for preprocessing and analysis.
 
