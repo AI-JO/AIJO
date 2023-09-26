@@ -63,3 +63,9 @@ Consumption
 Stock
 PredictionDate
 MinimumStrategicInventory
+
+<img src="https://raw.githubusercontent.com/salahkhenfer/AIJO/main/projects/39/Screenshot%202023-09-26%20193117.png">
+
+
+
+
