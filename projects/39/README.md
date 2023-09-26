@@ -1,6 +1,7 @@
 # Project 39
 <img src ="https://raw.githubusercontent.com/salahkhenfer/AIJO/main/images/ai_strategy_and_implementation_plan-_final%20(2)-072.jpg">
-### description of project 
+
+### description of project :
 - Monitoring the quantities of fuel available at gas stations and the quantities of consumption and stock
 Strategy by creating artificial intelligence software that predicts consumption amounts in
 Different regions based on historical consumption figures. The software also estimates
