@@ -1,5 +1,6 @@
 # Project 41
 
+<img src="https://raw.githubusercontent.com/salahkhenfer/AIJO/patch-3/images/ai_strategy_and_implementation_plan-_final%20(2)-074.jpg">
 
 ## Overview
 This project focuses on the development of an artificial intelligence system to analyze water consumption patterns and accurately detect leaks within geographic regions. The AI software predicts water wastage quantities, locations, and leak points, assisting maintenance teams in efficiently addressing the issues.
