@@ -1,0 +1,101 @@
+/* Reset default browser styles */
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set a background color and font for the body */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+/* Create a header with a background color and centered text */
+header {
+  background-color: #3498db;
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Style the header text */
+header h1 {
+  font-size: 36px;
+  color: #fff;
+}
+
+/* Style the navigation menu */
+nav {
+  background-color: #2c3e50;
+  text-align: center;
+  padding: 10px 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 18px;
+}
+
+/* Style the main content container */
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Style the image preview */
+.img-preview {
+  max-width: 100%;
+  height: auto;
+  border: 5px solid #3498db;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+}
+
+.upload-button {
+  display: inline-block;
+  padding: 15px 30px;
+  background-color: #3498db;
+  color: #fff;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  text-align: center;
+  text-decoration: none;
+  margin: 20px 0;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.upload-button:hover {
+  background-color: #2980b9;
+}
+
+/* Center the button within its container */
+.button-container {
+  text-align: center;
+}
+
+/* Style the result text */
+.result {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+/* Add spacing between paragraphs and lists */
+p,
+ul {
+  margin-bottom: 10px;
+}
