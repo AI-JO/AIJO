@@ -1,0 +1,16 @@
+{
+  "name": "voice-id-ar",
+  "version": "1.0.0",
+  "description": "مشروع بسيط Node.js يقدم واجهة دردشة صوتية بالعربية للتحقق من الرقم الوطني والرجوع ببيانات من JSON.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+} 

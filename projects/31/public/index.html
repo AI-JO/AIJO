@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>التحقق الصوتي من الرقم الوطني</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1>التحقق الصوتي من الرقم الوطني</h1>
+      <p class="subtitle">تكلّم بالعربية، قل رقمك الوطني، وسنقرأ لك البيانات إن وُجدت.</p>
+    </header>
+
+    <section id="chat" class="chat"></section>
+
+    <section class="controls">
+      <button id="micBtn" class="mic">🎙️ ابدأ التحدّث</button>
+      <button id="stopBtn" class="stop" disabled>⏹️ إيقاف</button>
+      <input id="textInput" type="text" placeholder="أو اكتب هنا..." aria-label="نص الإدخال" />
+      <button id="sendBtn" class="send">إرسال</button>
+    </section>
+
+    <footer>
+      <p>جرّب مثلًا: "رقمي الوطني 9921010143".</p>
+    </footer>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html> 
