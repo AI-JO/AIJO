@@ -1,0 +1,1339 @@
+patient_id,diagnosis,severity,icd_code
+36792266,Myocardial infarction,Severe,B25.N
+71120343,COPD exacerbation,Severe,M62.E
+18184625,Head injury,Mild,E04.E
+82020498,UTI,Moderate,K05.A
+5396939,Pneumonia,Severe,M65.E
+41480793,Gastroenteritis,Mild,H87.Y
+7629299,Asthma,Severe,Z87.H
+22241367,UTI,Severe,V89.J
+25805749,Fracture,Severe,B89.O
+39762670,Gastroenteritis,Mild,N46.P
+1864796,Pneumonia,Moderate,C74.N
+18878418,Appendicitis,Mild,Q85.B
+52235301,Stroke,Moderate,X50.Z
+35420172,COPD exacerbation,Severe,R08.H
+20043266,Head injury,Moderate,X89.D
+52801138,Myocardial infarction,Mild,G72.H
+52801138,COPD exacerbation,Mild,N71.J
+52801138,Appendicitis,Mild,D54.A
+52086947,Asthma,Moderate,C86.O
+40243932,Sepsis,Mild,P91.Z
+7661236,Fracture,Mild,V55.I
+7661236,Fracture,Moderate,O16.Z
+12244321,COPD exacerbation,Mild,V39.Z
+12244321,Pneumonia,Moderate,R83.Q
+37152827,Asthma,Moderate,N99.B
+52531019,Myocardial infarction,Severe,W78.X
+51670195,Sepsis,Moderate,Z47.J
+94370560,Abdominal pain,Mild,G55.L
+94370560,Pneumonia,Moderate,T52.K
+34761927,Fracture,Severe,U40.L
+34761927,Myocardial infarction,Moderate,I99.J
+77987949,Gastroenteritis,Severe,W00.W
+38890209,Myocardial infarction,Mild,V86.E
+17155997,Sepsis,Moderate,Y75.E
+2183532,Head injury,Mild,Q82.Z
+2183532,COPD exacerbation,Severe,O19.W
+2183532,Asthma,Moderate,L55.L
+65163145,Fracture,Mild,Q33.Y
+17520331,Stroke,Severe,A99.M
+17520331,Gastroenteritis,Moderate,P85.U
+48521510,Pneumonia,Mild,Y69.R
+6163694,Sepsis,Mild,Z09.V
+50589017,Appendicitis,Moderate,U69.G
+16243349,Myocardial infarction,Moderate,N32.W
+75817725,Fracture,Mild,G06.V
+44704860,Pneumonia,Moderate,O56.Q
+63247698,Fracture,Moderate,T99.A
+32880567,Appendicitis,Severe,P06.X
+32880567,Gastroenteritis,Severe,P73.Y
+32880567,Abdominal pain,Moderate,I30.Y
+57116608,Gastroenteritis,Mild,B93.O
+32975686,Fracture,Severe,C18.L
+71081451,Sepsis,Severe,J64.E
+13639946,Stroke,Severe,J55.L
+13639946,COPD exacerbation,Moderate,S58.M
+29871096,Pneumonia,Moderate,T19.B
+29871096,Abdominal pain,Severe,H09.D
+75982619,Myocardial infarction,Moderate,R90.O
+20118586,Appendicitis,Moderate,G64.F
+20118586,Appendicitis,Mild,N20.P
+76716145,Appendicitis,Severe,S81.W
+39147872,Sepsis,Moderate,D80.O
+32426746,Fracture,Severe,B12.B
+37748905,Appendicitis,Mild,M28.P
+57887997,Myocardial infarction,Severe,P36.I
+55529398,Appendicitis,Mild,N16.U
+9700174,Myocardial infarction,Moderate,V62.B
+60986722,Gastroenteritis,Severe,O25.N
+96304082,Fracture,Mild,Y78.P
+28051649,Sepsis,Severe,N11.W
+71494105,Stroke,Moderate,L93.M
+1483552,Sepsis,Moderate,I02.U
+13740635,Gastroenteritis,Severe,S44.F
+75997171,Appendicitis,Severe,Q13.R
+81283450,UTI,Moderate,A63.G
+88300920,Head injury,Moderate,X60.O
+88300920,UTI,Moderate,J07.N
+79661298,Fracture,Mild,B04.R
+9715106,Myocardial infarction,Severe,U10.P
+78109448,Myocardial infarction,Moderate,V81.V
+55964342,Fracture,Moderate,M65.F
+77492365,Gastroenteritis,Moderate,P35.E
+77492365,Head injury,Moderate,J79.G
+45656329,Appendicitis,Moderate,A05.B
+94024063,Appendicitis,Moderate,I80.F
+88687178,Appendicitis,Moderate,J47.E
+31292306,Fracture,Moderate,B36.T
+31292306,Gastroenteritis,Severe,U59.P
+56664914,Sepsis,Mild,B78.S
+89436534,Stroke,Severe,T29.K
+6958286,Sepsis,Moderate,I45.I
+35925722,UTI,Severe,O27.E
+82525253,Fracture,Moderate,W83.O
+96737527,Fracture,Moderate,H96.G
+95899787,Gastroenteritis,Moderate,A51.X
+95899787,UTI,Severe,V94.H
+95899787,Appendicitis,Mild,H21.T
+91765927,Gastroenteritis,Mild,X19.D
+7018996,Fracture,Moderate,I87.G
+13904528,Fracture,Mild,Z58.M
+59744834,Sepsis,Severe,P72.D
+21752750,Sepsis,Moderate,A16.T
+21752750,Stroke,Moderate,L32.U
+9322360,Abdominal pain,Mild,K77.G
+53023450,Sepsis,Severe,J30.L
+7431704,Asthma,Mild,A44.T
+7431704,Stroke,Mild,G30.W
+7431704,Fracture,Mild,O37.M
+9823096,Abdominal pain,Moderate,S19.P
+62047829,Sepsis,Mild,V53.T
+54644444,COPD exacerbation,Severe,B41.J
+26255976,Fracture,Mild,X29.E
+26255976,Fracture,Moderate,Q41.M
+21873323,UTI,Moderate,H20.Q
+91269368,Fracture,Severe,K53.B
+36426438,Gastroenteritis,Mild,H00.X
+23933821,Stroke,Moderate,S85.F
+33674005,Pneumonia,Mild,G18.J
+72561987,Myocardial infarction,Moderate,J79.Q
+72561987,Gastroenteritis,Moderate,P87.B
+54135833,Head injury,Moderate,Z65.W
+84694575,Stroke,Severe,Z10.H
+59235168,Fracture,Mild,B45.Z
+11607251,Myocardial infarction,Moderate,D73.V
+32257560,Head injury,Severe,L25.E
+53781511,UTI,Mild,U04.P
+53781511,Appendicitis,Moderate,F16.Y
+53781511,COPD exacerbation,Mild,V26.A
+22361772,Head injury,Severe,A68.C
+22361772,Gastroenteritis,Mild,P92.J
+55025097,Abdominal pain,Moderate,M64.E
+2510382,Pneumonia,Moderate,R58.I
+2510382,UTI,Severe,M29.G
+27356369,Sepsis,Severe,B91.H
+36792943,COPD exacerbation,Severe,J43.E
+19514737,Fracture,Mild,N66.P
+23262357,Asthma,Severe,C10.J
+8690230,Gastroenteritis,Moderate,D42.A
+9060899,Head injury,Mild,Z83.E
+68192471,Appendicitis,Severe,Z55.X
+27500002,Abdominal pain,Mild,H84.P
+27500002,Myocardial infarction,Mild,J90.N
+27500002,UTI,Severe,B20.L
+26724631,Asthma,Moderate,R92.B
+38071592,Abdominal pain,Severe,W87.Q
+18664094,Abdominal pain,Mild,K19.V
+18664094,Sepsis,Mild,C27.A
+18664094,Fracture,Severe,K64.V
+64299349,Sepsis,Mild,G31.B
+72859510,Fracture,Severe,F67.R
+9094581,Pneumonia,Moderate,Q52.Y
+58091986,Myocardial infarction,Severe,X30.E
+87681245,COPD exacerbation,Mild,W67.E
+79081347,UTI,Moderate,A98.R
+79081347,Gastroenteritis,Severe,P84.P
+52307564,Head injury,Mild,H68.L
+97913967,Myocardial infarction,Moderate,T39.J
+30732786,Gastroenteritis,Mild,R37.K
+30732786,Head injury,Mild,V00.B
+30732786,Head injury,Severe,Q24.B
+11356385,COPD exacerbation,Moderate,N41.P
+93886724,Appendicitis,Mild,N98.R
+8942652,Abdominal pain,Mild,K17.A
+86135911,Sepsis,Moderate,T56.Z
+18336272,Myocardial infarction,Moderate,X26.Z
+44864380,Asthma,Severe,Y68.T
+15641893,COPD exacerbation,Moderate,B87.L
+59511793,COPD exacerbation,Moderate,W77.I
+54572836,Pneumonia,Moderate,V91.M
+60658045,Asthma,Severe,P46.E
+17391926,Appendicitis,Moderate,T03.Y
+27791103,COPD exacerbation,Mild,H02.H
+27791103,Abdominal pain,Moderate,N78.S
+27791103,Appendicitis,Severe,E23.S
+91220075,Pneumonia,Moderate,R19.Q
+21367476,Asthma,Moderate,A58.O
+21367476,Pneumonia,Severe,Z97.P
+66775252,Fracture,Severe,S27.X
+74289317,Appendicitis,Severe,X58.P
+68681052,Abdominal pain,Moderate,A90.M
+88163239,Fracture,Severe,X84.B
+3340668,Sepsis,Mild,O67.I
+28586725,Sepsis,Moderate,B68.P
+32292,Asthma,Severe,X02.V
+73752526,Sepsis,Severe,S17.I
+82229308,Fracture,Severe,X77.X
+93853496,Myocardial infarction,Moderate,D14.R
+30452991,COPD exacerbation,Mild,I04.Y
+62181534,Fracture,Mild,X03.Z
+62181534,Abdominal pain,Moderate,M11.X
+27449356,Myocardial infarction,Mild,W41.I
+7343523,Appendicitis,Severe,O20.X
+30628793,UTI,Mild,U83.T
+30628793,UTI,Severe,J09.D
+82618068,Fracture,Severe,J71.O
+30640127,Appendicitis,Mild,Q85.H
+30640127,Pneumonia,Mild,T98.T
+23203851,Asthma,Severe,J57.G
+23203851,Head injury,Severe,N11.Q
+4899219,UTI,Severe,C03.C
+56316374,Asthma,Severe,Y54.F
+56316374,Stroke,Mild,D26.C
+56316374,Head injury,Moderate,G35.R
+15236213,Sepsis,Severe,W68.I
+15236213,COPD exacerbation,Severe,M63.M
+1332570,UTI,Moderate,Y91.L
+1332570,Myocardial infarction,Moderate,H96.J
+592415,Myocardial infarction,Moderate,W99.X
+58967645,Fracture,Severe,T10.D
+52240392,Asthma,Mild,Q51.B
+43860140,COPD exacerbation,Severe,V56.E
+98154986,Fracture,Moderate,V45.T
+80092253,Asthma,Severe,E45.U
+85292597,Appendicitis,Mild,R11.G
+85292597,Stroke,Moderate,K94.F
+47868227,Appendicitis,Severe,C10.Q
+15244949,Sepsis,Moderate,Q54.B
+27821186,Myocardial infarction,Severe,Q97.L
+18271604,Stroke,Severe,H91.W
+31475798,Asthma,Severe,B81.Q
+73805049,UTI,Mild,Q69.W
+26531200,Stroke,Severe,O07.M
+78739783,Myocardial infarction,Mild,O64.G
+78739783,Appendicitis,Moderate,X78.F
+55153926,COPD exacerbation,Severe,Y99.S
+41568032,Sepsis,Mild,N37.L
+41568032,Sepsis,Mild,T77.M
+41568032,Gastroenteritis,Mild,O72.A
+63161056,Appendicitis,Severe,E17.J
+63161056,Pneumonia,Mild,T39.T
+58593100,Asthma,Moderate,B16.R
+17468253,Stroke,Moderate,S44.M
+99953177,Head injury,Severe,C14.F
+79530651,Appendicitis,Mild,Z72.A
+79530651,Appendicitis,Mild,R36.N
+2254819,Abdominal pain,Moderate,L79.I
+94716562,Myocardial infarction,Severe,A06.J
+94909843,Stroke,Moderate,Y08.D
+82616846,Sepsis,Moderate,A46.R
+82616846,Asthma,Mild,O14.U
+82616846,Stroke,Severe,I02.J
+46770385,Head injury,Moderate,B67.L
+46770385,Myocardial infarction,Moderate,Y30.G
+13208674,UTI,Moderate,G06.X
+13208674,Head injury,Moderate,F40.F
+49556791,Asthma,Severe,L86.V
+81730353,Sepsis,Moderate,R67.E
+48010777,Abdominal pain,Severe,Q65.K
+36901194,Appendicitis,Mild,L87.D
+56588572,Sepsis,Moderate,Y02.M
+6053701,Pneumonia,Moderate,Y11.A
+79475976,Asthma,Moderate,J31.I
+71442163,Appendicitis,Severe,F71.Z
+72773943,Appendicitis,Moderate,F80.D
+59116183,COPD exacerbation,Severe,A22.X
+59116183,UTI,Mild,H94.W
+49631798,COPD exacerbation,Severe,D32.B
+72602480,Appendicitis,Moderate,C71.B
+45344657,Myocardial infarction,Moderate,J98.F
+42410710,Myocardial infarction,Moderate,K95.X
+29874255,Myocardial infarction,Moderate,M26.F
+75734290,Head injury,Severe,Q72.M
+75734290,Gastroenteritis,Severe,L94.T
+33957716,Appendicitis,Mild,F10.G
+33957716,Myocardial infarction,Mild,N48.R
+89191432,Myocardial infarction,Severe,H31.U
+8192961,Gastroenteritis,Severe,R43.G
+8192961,Pneumonia,Severe,B77.X
+567455,Abdominal pain,Severe,S79.B
+69079393,Asthma,Moderate,O05.H
+69079393,UTI,Mild,W27.R
+69079393,Abdominal pain,Mild,V82.R
+33485974,Stroke,Mild,A63.M
+84092750,COPD exacerbation,Moderate,G24.Z
+72897224,Sepsis,Severe,S36.I
+35814083,Stroke,Severe,M18.N
+35814083,Pneumonia,Mild,C16.N
+56456475,UTI,Mild,B04.X
+56456475,Gastroenteritis,Moderate,O12.E
+84707936,Fracture,Severe,C93.Q
+33129405,Asthma,Mild,U50.Z
+87984938,Appendicitis,Mild,I13.V
+30040552,UTI,Moderate,T35.I
+22154226,Pneumonia,Moderate,B75.S
+47897443,Gastroenteritis,Mild,E24.G
+25635389,COPD exacerbation,Moderate,R75.Q
+76399198,COPD exacerbation,Mild,S52.V
+99959902,UTI,Severe,B46.Z
+84390304,Fracture,Moderate,G85.I
+56539009,Head injury,Severe,K41.Y
+51381925,Abdominal pain,Mild,G47.N
+77306704,Pneumonia,Mild,S48.U
+97613436,Abdominal pain,Severe,M77.M
+51505936,COPD exacerbation,Severe,G62.M
+86497194,Stroke,Moderate,C68.R
+86497194,Asthma,Moderate,D13.V
+8263782,Head injury,Moderate,E95.H
+84706946,Gastroenteritis,Moderate,W40.Q
+84706946,Abdominal pain,Moderate,M30.K
+84706946,Asthma,Severe,G85.J
+90683862,UTI,Moderate,J44.Q
+1789359,Myocardial infarction,Severe,P35.H
+77069145,Gastroenteritis,Severe,N24.M
+31181445,Abdominal pain,Moderate,K37.W
+94223402,Gastroenteritis,Severe,X00.B
+27889150,Pneumonia,Mild,H51.R
+49408759,Head injury,Mild,Y89.G
+22604597,Abdominal pain,Moderate,J78.V
+72063663,Sepsis,Severe,Q21.S
+63440846,Fracture,Mild,M48.Q
+17912267,Pneumonia,Mild,M63.C
+25951506,Pneumonia,Mild,C92.J
+19268968,Pneumonia,Mild,W02.T
+11287730,Fracture,Mild,Y93.U
+26072799,Stroke,Mild,D42.T
+50111288,Abdominal pain,Moderate,W21.Q
+50111288,Head injury,Moderate,J40.V
+50111288,Fracture,Mild,R06.D
+72507439,Head injury,Mild,Q31.W
+72507439,Asthma,Mild,X59.N
+72507439,UTI,Severe,P97.Z
+67828956,Appendicitis,Severe,O14.N
+68100398,Myocardial infarction,Moderate,S30.G
+68100398,Stroke,Severe,O05.R
+67927154,Head injury,Mild,C46.K
+90870608,Fracture,Mild,Q40.F
+90870608,Pneumonia,Severe,P42.T
+63946283,Myocardial infarction,Severe,F08.P
+78398430,Appendicitis,Severe,O56.K
+13723822,Stroke,Moderate,C77.G
+13723822,Head injury,Moderate,C60.A
+13723822,Stroke,Mild,R57.H
+57786871,Stroke,Mild,M74.S
+57786871,Head injury,Severe,G83.F
+57786871,UTI,Mild,I17.V
+13235225,Appendicitis,Moderate,R44.W
+16889176,Gastroenteritis,Mild,D40.X
+60545912,Head injury,Moderate,T32.M
+47115609,Pneumonia,Mild,R75.E
+42899168,Myocardial infarction,Moderate,F55.Z
+46714457,Appendicitis,Mild,N37.Z
+46714457,Sepsis,Moderate,Z49.I
+46714457,Gastroenteritis,Moderate,F85.R
+95128117,COPD exacerbation,Mild,Q29.R
+89241259,Myocardial infarction,Severe,Z67.F
+4950614,Fracture,Mild,S12.Q
+48603508,Stroke,Mild,T44.Q
+59721058,Asthma,Mild,L59.Q
+20848505,Myocardial infarction,Moderate,E50.X
+54894317,Pneumonia,Moderate,C71.S
+28447850,Head injury,Severe,W44.K
+28447850,Fracture,Mild,R21.P
+25512679,Stroke,Mild,U54.D
+58018561,Myocardial infarction,Mild,W61.H
+60778763,Head injury,Mild,M49.I
+60609670,Abdominal pain,Moderate,B08.X
+60609670,Gastroenteritis,Mild,O69.H
+60609670,Stroke,Mild,C73.I
+14645920,Asthma,Severe,Y01.I
+14645920,UTI,Mild,S53.Y
+14645920,Pneumonia,Mild,Z75.Y
+4663177,Stroke,Mild,C36.W
+55920500,Gastroenteritis,Mild,T77.Y
+55920500,Fracture,Mild,B20.G
+2493729,Asthma,Mild,V54.I
+2493729,Myocardial infarction,Moderate,B74.U
+1513892,Appendicitis,Moderate,A36.N
+1513892,Appendicitis,Mild,A71.X
+1513892,Abdominal pain,Severe,X67.B
+87004679,Head injury,Moderate,Y56.V
+83114516,Abdominal pain,Severe,T72.P
+83114516,UTI,Moderate,S44.N
+83114516,Gastroenteritis,Severe,X01.D
+45153346,UTI,Mild,I07.T
+26131789,Head injury,Severe,L86.V
+12871825,Sepsis,Severe,L39.R
+22012298,Fracture,Mild,H13.O
+73171804,Myocardial infarction,Moderate,E08.O
+37034393,Fracture,Mild,E26.H
+70087211,Gastroenteritis,Moderate,Z11.B
+69800118,Sepsis,Moderate,A16.O
+98393011,Fracture,Mild,Q15.S
+54252841,Asthma,Mild,A92.C
+73138070,Sepsis,Mild,Y34.H
+95914287,UTI,Severe,T01.O
+31691597,Sepsis,Moderate,G52.O
+8727426,Myocardial infarction,Severe,S37.H
+8727426,Gastroenteritis,Mild,M80.A
+43668151,Abdominal pain,Moderate,E08.U
+78478015,Fracture,Moderate,L14.W
+78401259,Pneumonia,Mild,W39.F
+24968234,Fracture,Moderate,D17.X
+76137771,Appendicitis,Severe,L74.X
+76137771,Asthma,Severe,P91.G
+12129323,COPD exacerbation,Mild,Q32.N
+12129323,Appendicitis,Moderate,Y80.D
+38782851,Myocardial infarction,Mild,G85.V
+80532391,Appendicitis,Severe,Q37.N
+4812546,Stroke,Severe,Z56.R
+88498319,Appendicitis,Moderate,R08.P
+57743165,Asthma,Mild,R47.C
+57743165,Abdominal pain,Severe,U36.M
+36561605,Pneumonia,Mild,P89.I
+22644338,UTI,Mild,F80.W
+18724896,UTI,Moderate,G08.K
+43416784,Appendicitis,Mild,V48.O
+43416784,Pneumonia,Mild,I28.B
+27325109,Appendicitis,Moderate,I32.Q
+89108229,UTI,Mild,J40.C
+89108229,COPD exacerbation,Severe,Z87.K
+89108229,Myocardial infarction,Severe,Z40.C
+28404593,Asthma,Mild,A53.F
+28404593,UTI,Mild,Y40.V
+88890225,Abdominal pain,Moderate,Y61.J
+59117395,Head injury,Mild,H13.E
+17549965,Head injury,Severe,V85.C
+17549965,Appendicitis,Mild,O82.C
+17549965,Sepsis,Mild,F02.W
+10767319,Fracture,Severe,Z23.Y
+23542472,COPD exacerbation,Mild,H87.U
+23542472,Sepsis,Severe,B00.K
+23542472,Pneumonia,Severe,V13.C
+86211544,Appendicitis,Mild,N86.M
+86211544,Sepsis,Moderate,R40.B
+78940488,Pneumonia,Severe,D08.P
+54305788,Head injury,Moderate,N55.V
+83060278,Appendicitis,Severe,R72.E
+27413819,Stroke,Severe,F27.X
+96319652,Sepsis,Moderate,B79.M
+22670848,Abdominal pain,Mild,R35.W
+24374739,Appendicitis,Mild,H66.M
+42157285,Asthma,Severe,L02.S
+25201930,Asthma,Severe,L03.O
+13977418,Pneumonia,Mild,B55.R
+13977418,Myocardial infarction,Severe,Q52.W
+13977418,Sepsis,Mild,R88.W
+12403895,Sepsis,Mild,O07.R
+43830051,COPD exacerbation,Severe,W74.P
+43830051,COPD exacerbation,Moderate,Q24.G
+43830051,COPD exacerbation,Severe,T41.Z
+45581213,Myocardial infarction,Moderate,M62.G
+11455843,Appendicitis,Severe,B37.V
+93269291,Appendicitis,Severe,W45.K
+65390904,Abdominal pain,Moderate,I65.I
+65390904,Sepsis,Severe,C20.J
+56620337,Abdominal pain,Severe,U30.H
+56620337,COPD exacerbation,Severe,Q89.C
+51008439,UTI,Mild,W42.C
+57165336,Myocardial infarction,Moderate,X95.T
+96344770,Pneumonia,Severe,R31.F
+64283154,Appendicitis,Moderate,J61.D
+94154575,Head injury,Severe,G38.P
+80981576,Myocardial infarction,Moderate,V81.I
+50729950,Gastroenteritis,Severe,N73.Q
+50729950,Head injury,Mild,Z97.G
+50729950,Gastroenteritis,Moderate,R04.O
+68620257,UTI,Moderate,V85.B
+15971535,Gastroenteritis,Mild,K06.E
+15971535,Gastroenteritis,Severe,Q91.G
+15971535,Pneumonia,Mild,R60.S
+31506951,COPD exacerbation,Mild,V00.O
+31506951,Asthma,Severe,E47.H
+52571083,Abdominal pain,Mild,B27.W
+60274415,Sepsis,Moderate,U67.V
+11118851,Asthma,Severe,Y67.N
+8829237,Head injury,Moderate,R02.E
+61565655,Stroke,Mild,S05.F
+83655200,Stroke,Mild,F48.N
+83655200,UTI,Moderate,J92.P
+96862238,Head injury,Moderate,Z63.P
+25000601,Abdominal pain,Severe,M67.K
+17649193,Gastroenteritis,Moderate,V76.X
+15179265,Pneumonia,Moderate,Y55.G
+81088529,Myocardial infarction,Moderate,W84.H
+21367010,Pneumonia,Mild,H56.M
+21367010,Sepsis,Severe,Q55.E
+24746367,Head injury,Mild,E99.O
+24746367,Fracture,Moderate,R87.W
+24746367,Head injury,Mild,I55.X
+72322540,Sepsis,Moderate,N38.D
+72322540,Pneumonia,Mild,Y76.L
+72322540,Pneumonia,Moderate,N26.H
+88506285,UTI,Mild,E78.V
+62233994,COPD exacerbation,Severe,T45.S
+98649275,Head injury,Severe,W95.H
+59324240,Stroke,Moderate,E98.W
+32640991,Myocardial infarction,Severe,G50.A
+57188439,Appendicitis,Moderate,A17.Y
+63772420,Asthma,Severe,R75.L
+72473334,Myocardial infarction,Severe,C49.H
+34738441,Head injury,Severe,K72.P
+77590085,Stroke,Severe,Q82.Y
+77590085,Myocardial infarction,Mild,C14.Y
+77282416,Appendicitis,Severe,E25.R
+77282416,Sepsis,Mild,M22.S
+77282416,Myocardial infarction,Moderate,W81.S
+84778629,Asthma,Mild,U52.T
+84778629,Gastroenteritis,Mild,H06.D
+43135813,Gastroenteritis,Severe,W44.K
+47505632,Head injury,Moderate,V59.Z
+81846789,Sepsis,Mild,H27.E
+82900119,Head injury,Moderate,Q55.C
+98585488,COPD exacerbation,Moderate,U94.S
+28829956,Stroke,Severe,T72.R
+23064837,Gastroenteritis,Mild,Q37.J
+97072022,Sepsis,Severe,I52.Z
+76030458,Gastroenteritis,Moderate,X00.N
+76030458,Stroke,Mild,I65.O
+29398878,Abdominal pain,Moderate,U40.Q
+31204781,Abdominal pain,Mild,Q12.F
+31204781,Abdominal pain,Moderate,L03.Y
+65525288,Asthma,Mild,B11.T
+47727028,Myocardial infarction,Mild,S83.R
+98692481,Fracture,Mild,G17.W
+89853650,Gastroenteritis,Mild,P09.G
+89853650,Sepsis,Severe,D96.U
+89853650,Gastroenteritis,Severe,E57.F
+17398503,Fracture,Severe,O96.Z
+28995117,COPD exacerbation,Severe,U34.A
+36291118,Head injury,Severe,H96.O
+36291118,Stroke,Mild,L19.O
+36291118,UTI,Severe,G24.B
+43278206,Fracture,Severe,K46.K
+91163468,Gastroenteritis,Moderate,M05.B
+76991397,Fracture,Mild,F76.R
+17322655,Appendicitis,Severe,N46.K
+90159304,Fracture,Severe,J38.J
+5553272,Appendicitis,Mild,M18.G
+93323343,Pneumonia,Mild,O53.B
+62006433,Appendicitis,Mild,W23.P
+75961588,Appendicitis,Mild,E99.W
+75961588,Asthma,Severe,V44.D
+11390152,Appendicitis,Severe,A33.H
+28481296,Pneumonia,Mild,E95.B
+13784423,Asthma,Moderate,Q43.T
+41594623,Fracture,Mild,U21.Q
+47501591,Gastroenteritis,Mild,M95.Y
+33585356,Fracture,Mild,X79.V
+33585356,Fracture,Moderate,Q85.V
+33585356,Stroke,Mild,A82.X
+80431240,Abdominal pain,Severe,N85.P
+93279256,Pneumonia,Moderate,U04.P
+12349318,Sepsis,Severe,K63.R
+7146579,Appendicitis,Severe,J17.T
+18755994,Appendicitis,Mild,A56.P
+68253461,Head injury,Moderate,C94.B
+60386583,Head injury,Severe,G39.J
+36542815,Fracture,Severe,I99.P
+56528902,Asthma,Moderate,F63.G
+56528902,UTI,Moderate,Z48.S
+56528902,Abdominal pain,Mild,Q58.T
+12987350,Pneumonia,Moderate,I93.C
+12987350,Gastroenteritis,Severe,T80.H
+43766600,Abdominal pain,Severe,O14.J
+58203437,Fracture,Mild,S10.N
+33250087,Appendicitis,Moderate,R76.Q
+16478563,COPD exacerbation,Severe,B34.S
+12575418,Pneumonia,Mild,M26.T
+12575418,UTI,Moderate,S94.U
+54191108,UTI,Severe,K12.O
+11900444,Asthma,Severe,U78.N
+36955085,Asthma,Mild,X67.J
+63251639,Pneumonia,Mild,N30.X
+60524311,COPD exacerbation,Severe,L44.B
+133549,Sepsis,Severe,M45.Y
+41967141,Asthma,Moderate,Q01.F
+71788105,Abdominal pain,Moderate,L01.B
+61148850,Sepsis,Moderate,P52.B
+61148850,Myocardial infarction,Moderate,U54.G
+43222088,COPD exacerbation,Severe,M06.U
+84452503,Asthma,Moderate,O66.Y
+84452503,Pneumonia,Severe,J98.Z
+82796445,Asthma,Severe,H65.F
+82796445,Myocardial infarction,Mild,Q95.U
+82796445,Asthma,Moderate,C41.H
+71394811,Gastroenteritis,Severe,A58.F
+32630983,Sepsis,Mild,T13.H
+8059985,Fracture,Severe,T54.Q
+8059985,Stroke,Moderate,E68.C
+79629896,Head injury,Moderate,U06.E
+7386750,UTI,Severe,A92.L
+64140424,Pneumonia,Moderate,B15.D
+27776705,Abdominal pain,Severe,L48.C
+2730033,COPD exacerbation,Moderate,D71.N
+58115762,Gastroenteritis,Severe,T81.C
+58115762,Asthma,Mild,S22.K
+92850667,Pneumonia,Mild,F87.X
+70181422,Sepsis,Mild,C28.V
+12428571,Sepsis,Mild,W14.W
+10505599,Abdominal pain,Mild,F57.A
+27483829,Pneumonia,Moderate,H64.P
+42989891,Stroke,Mild,L41.M
+18110125,Asthma,Severe,L92.S
+82394164,Abdominal pain,Mild,P25.R
+66820248,Fracture,Moderate,M34.N
+66820248,UTI,Moderate,U73.A
+78083057,Pneumonia,Mild,J26.J
+78083057,Gastroenteritis,Severe,S36.X
+97983628,Pneumonia,Mild,K14.W
+65387926,Head injury,Mild,D68.K
+43135632,Stroke,Mild,G65.I
+43135632,Appendicitis,Moderate,Y89.D
+39901257,Myocardial infarction,Mild,B86.J
+27906699,Abdominal pain,Moderate,Q03.G
+20212003,UTI,Severe,Z48.X
+93279941,Myocardial infarction,Mild,K60.A
+55276184,Sepsis,Moderate,J69.U
+55276184,Abdominal pain,Mild,B39.L
+77475100,UTI,Moderate,Q96.V
+681985,COPD exacerbation,Mild,R89.H
+5814667,Abdominal pain,Severe,S94.P
+37464189,Stroke,Moderate,A07.E
+37464189,Fracture,Severe,A15.G
+37464189,Appendicitis,Mild,J42.F
+72458237,UTI,Moderate,H05.Z
+72458237,Sepsis,Moderate,L35.L
+2402258,Stroke,Moderate,M04.V
+2402258,Abdominal pain,Severe,X55.D
+2402258,UTI,Severe,A53.X
+27341402,Appendicitis,Severe,M14.C
+74824936,Asthma,Severe,E75.Q
+93991640,Appendicitis,Mild,I45.X
+27948197,COPD exacerbation,Severe,F13.X
+27948197,Appendicitis,Mild,V10.Y
+27948197,Head injury,Mild,V85.F
+61399860,Gastroenteritis,Moderate,O84.G
+3972473,COPD exacerbation,Moderate,K25.V
+3972473,UTI,Mild,N51.G
+91725208,Appendicitis,Moderate,Y10.M
+54875482,Asthma,Severe,O56.Y
+54875482,COPD exacerbation,Moderate,M45.M
+67304057,Abdominal pain,Mild,F40.L
+6706547,Pneumonia,Moderate,K33.W
+11943040,Gastroenteritis,Severe,U25.Y
+11943040,Asthma,Mild,T91.H
+6882889,Appendicitis,Mild,W18.K
+6882889,Appendicitis,Severe,C13.I
+81840222,Sepsis,Moderate,A87.F
+81840222,Abdominal pain,Moderate,Z75.R
+31203855,UTI,Moderate,D04.P
+92717213,Asthma,Severe,Z31.M
+52596964,COPD exacerbation,Mild,O88.D
+78389344,Gastroenteritis,Mild,Y56.T
+68726150,COPD exacerbation,Severe,J91.Y
+15268761,Fracture,Mild,R65.P
+23330316,Fracture,Mild,I54.K
+4768339,Head injury,Severe,H63.S
+12738463,Sepsis,Moderate,Y17.J
+12738463,Abdominal pain,Mild,M12.B
+59588594,Sepsis,Severe,R51.I
+80166727,Stroke,Moderate,V82.W
+69320825,UTI,Moderate,X82.O
+26545869,Gastroenteritis,Mild,E42.I
+84996157,COPD exacerbation,Moderate,N13.P
+92591960,COPD exacerbation,Moderate,O06.Z
+92591960,Head injury,Moderate,G11.A
+56911481,Sepsis,Moderate,K53.N
+79369899,Myocardial infarction,Moderate,Y83.E
+32121914,Gastroenteritis,Mild,F04.T
+32121914,Fracture,Mild,U94.M
+76746553,Stroke,Moderate,R67.P
+28909760,Sepsis,Moderate,B52.N
+81742512,Pneumonia,Severe,U00.C
+81742512,Fracture,Mild,O46.T
+20141678,Stroke,Moderate,B49.M
+45740413,Fracture,Moderate,A60.F
+8233955,UTI,Severe,P00.L
+26084473,Myocardial infarction,Mild,V35.S
+9860508,Gastroenteritis,Severe,Y24.M
+58715781,COPD exacerbation,Mild,B91.F
+35888222,Abdominal pain,Severe,Q12.L
+35888222,UTI,Mild,Y75.H
+35888222,Gastroenteritis,Mild,K27.K
+98630553,Pneumonia,Moderate,U49.H
+91539958,Gastroenteritis,Severe,E02.M
+67188566,COPD exacerbation,Severe,D32.Y
+95907300,UTI,Mild,V97.Q
+39470620,Asthma,Severe,A93.U
+39470620,Stroke,Severe,K19.C
+11362774,Sepsis,Mild,S97.Z
+98622819,Stroke,Mild,C11.V
+30767937,Gastroenteritis,Mild,R38.R
+30767937,Stroke,Severe,W45.P
+45649786,Head injury,Mild,G70.B
+29270402,Myocardial infarction,Severe,Z06.H
+61365977,Gastroenteritis,Mild,I11.V
+52463346,Appendicitis,Mild,R25.I
+51145869,Head injury,Severe,F74.D
+3180342,UTI,Severe,N27.B
+9764459,Head injury,Moderate,I67.B
+9764459,Appendicitis,Severe,Y18.K
+55442791,Myocardial infarction,Moderate,E60.U
+3941044,UTI,Moderate,N28.L
+65099783,UTI,Moderate,Z13.O
+65099783,UTI,Mild,X42.U
+33449960,Pneumonia,Mild,L23.P
+33449960,Pneumonia,Moderate,Z54.W
+10019402,Myocardial infarction,Mild,L31.W
+46057641,UTI,Mild,P63.G
+32513216,Abdominal pain,Mild,W42.W
+32513216,Sepsis,Mild,X32.I
+32513216,Appendicitis,Mild,T49.T
+73280472,Stroke,Mild,D13.R
+76333993,Pneumonia,Severe,B89.G
+90123932,Asthma,Moderate,Y73.Z
+60264479,Asthma,Severe,T01.C
+69216409,Head injury,Severe,V13.H
+69216409,Stroke,Severe,O53.Q
+69216409,Head injury,Mild,Q74.Q
+6302166,Asthma,Mild,G55.K
+68841328,Pneumonia,Mild,A12.B
+92802134,Pneumonia,Moderate,A62.W
+53911235,COPD exacerbation,Severe,K10.O
+3958834,COPD exacerbation,Severe,I41.A
+86864169,UTI,Mild,W33.N
+78024563,Abdominal pain,Moderate,J05.Q
+30471552,Fracture,Moderate,L60.F
+30471552,Gastroenteritis,Mild,R40.E
+85830990,Sepsis,Mild,O84.F
+93166864,Abdominal pain,Moderate,A73.G
+47022748,Fracture,Mild,J69.C
+99569006,Appendicitis,Severe,H90.V
+99569006,UTI,Mild,A05.M
+99569006,Asthma,Severe,H20.Y
+7013660,COPD exacerbation,Moderate,Z47.D
+5543271,Sepsis,Moderate,A70.Q
+43273119,Asthma,Moderate,K49.O
+84768415,Abdominal pain,Severe,J81.H
+75840400,Gastroenteritis,Moderate,T01.V
+53779891,Pneumonia,Moderate,T04.N
+28968228,Head injury,Mild,N35.O
+18215518,Fracture,Mild,H37.G
+80041356,Asthma,Moderate,B26.W
+12536498,UTI,Mild,D57.M
+94930396,Stroke,Moderate,H12.Q
+99509375,UTI,Moderate,G97.Q
+99509375,Fracture,Mild,T87.D
+99509375,Myocardial infarction,Mild,P01.I
+86444833,COPD exacerbation,Mild,O43.A
+76673326,UTI,Severe,L49.G
+76673326,Stroke,Moderate,N30.M
+50488198,Asthma,Severe,J88.A
+63771614,Myocardial infarction,Severe,A57.O
+31006288,Head injury,Severe,R80.O
+28645342,Myocardial infarction,Moderate,R76.N
+18458161,Sepsis,Moderate,W03.Q
+29797551,Gastroenteritis,Severe,I80.O
+29797551,UTI,Moderate,L55.K
+29797551,Appendicitis,Severe,L43.R
+74664539,Pneumonia,Severe,E73.L
+24415958,Gastroenteritis,Severe,V05.H
+24415958,Stroke,Moderate,B79.T
+24415958,Myocardial infarction,Mild,M06.U
+35965224,Pneumonia,Severe,E87.Q
+59881695,Sepsis,Moderate,W22.I
+61488857,Abdominal pain,Severe,P77.P
+2361134,Fracture,Moderate,B24.Y
+80654762,Asthma,Moderate,O56.J
+41086143,Fracture,Mild,C10.Z
+41086143,Asthma,Severe,Y72.J
+15911495,Sepsis,Moderate,U46.D
+15911495,Stroke,Severe,R30.I
+50032819,COPD exacerbation,Mild,W27.C
+87224835,Abdominal pain,Moderate,S33.U
+22353459,Asthma,Mild,C95.E
+93949920,Stroke,Mild,K12.G
+93949920,UTI,Moderate,I24.A
+93949920,Myocardial infarction,Moderate,W25.B
+84451587,Head injury,Severe,S26.R
+84451587,Sepsis,Mild,Z17.N
+7221513,Gastroenteritis,Severe,T84.V
+59212602,Abdominal pain,Moderate,U58.F
+16348609,Head injury,Moderate,R95.V
+84079691,Myocardial infarction,Mild,U41.D
+31575214,Abdominal pain,Mild,L89.U
+63414510,Appendicitis,Mild,W63.U
+63414510,Myocardial infarction,Severe,W01.K
+33461952,Appendicitis,Moderate,D23.T
+38484684,UTI,Severe,Y07.Z
+38484684,Fracture,Mild,Q71.P
+38484684,Sepsis,Moderate,U92.C
+69955060,Asthma,Moderate,B88.J
+69955060,Fracture,Moderate,G76.K
+86724552,Myocardial infarction,Moderate,Q43.H
+3038692,Myocardial infarction,Mild,W84.B
+8421044,Sepsis,Mild,C32.E
+8421044,Gastroenteritis,Severe,F25.W
+9248015,Asthma,Moderate,Q60.Y
+9248015,Sepsis,Mild,A62.Z
+63653659,Sepsis,Moderate,R16.O
+63653659,Stroke,Moderate,V31.H
+63653659,Sepsis,Mild,J96.O
+27057261,UTI,Mild,Z19.G
+27057261,Gastroenteritis,Severe,H25.U
+51596391,Myocardial infarction,Moderate,K66.G
+51883732,Gastroenteritis,Moderate,B97.Z
+92731241,Abdominal pain,Moderate,B32.I
+92731241,Fracture,Severe,S75.A
+92731241,Fracture,Severe,U91.N
+92113878,Myocardial infarction,Moderate,L60.L
+88010800,Asthma,Mild,V11.H
+88010800,Asthma,Severe,R81.Y
+88010800,Appendicitis,Severe,B87.P
+30626974,COPD exacerbation,Mild,W21.C
+49488003,Fracture,Mild,O72.G
+49488003,Fracture,Mild,J00.O
+85671056,Pneumonia,Moderate,R03.H
+42329963,COPD exacerbation,Moderate,K39.F
+24677375,Sepsis,Moderate,R56.X
+14334410,Pneumonia,Severe,I34.N
+96663920,Gastroenteritis,Moderate,U96.I
+96663920,Head injury,Mild,T32.W
+96663920,UTI,Mild,Q50.G
+41779850,Sepsis,Mild,G87.J
+18571548,Fracture,Moderate,Q82.W
+57399043,Asthma,Moderate,I69.B
+81694447,Fracture,Severe,X39.M
+48275082,Appendicitis,Moderate,I75.B
+27511535,Myocardial infarction,Moderate,D54.M
+23927429,UTI,Mild,N35.O
+4853071,Head injury,Mild,S12.G
+4853071,Appendicitis,Moderate,S61.G
+79156528,Gastroenteritis,Mild,Y62.M
+79156528,COPD exacerbation,Severe,Y05.P
+79156528,UTI,Moderate,F16.S
+83757178,UTI,Moderate,K88.L
+79929705,Abdominal pain,Severe,E81.M
+4026765,Abdominal pain,Severe,E24.H
+4026765,Myocardial infarction,Mild,J31.D
+91611469,Asthma,Mild,S47.L
+91611469,Sepsis,Severe,P39.E
+58658594,Stroke,Severe,N31.D
+34946838,Pneumonia,Severe,A38.J
+34946838,UTI,Severe,E77.S
+94801452,Gastroenteritis,Severe,W75.W
+94801452,Gastroenteritis,Mild,B99.G
+46766731,Fracture,Severe,X39.O
+46766731,COPD exacerbation,Mild,E86.T
+11457708,Myocardial infarction,Mild,F37.Y
+15250443,Pneumonia,Severe,Y37.V
+15250443,UTI,Moderate,X27.A
+15250443,Pneumonia,Mild,J65.B
+79962937,Asthma,Mild,N66.K
+9055726,Pneumonia,Mild,P04.B
+9055726,Appendicitis,Moderate,F14.X
+9055726,Abdominal pain,Severe,J50.P
+81822226,Gastroenteritis,Mild,R30.P
+48379445,UTI,Severe,D32.J
+11913019,Abdominal pain,Mild,N27.A
+93044569,Gastroenteritis,Mild,M51.M
+93044569,Sepsis,Moderate,Z31.X
+23165886,Sepsis,Severe,M91.S
+88473188,Stroke,Mild,L76.T
+88473188,COPD exacerbation,Mild,B50.C
+90707300,Asthma,Moderate,I70.T
+82390148,Head injury,Mild,T40.C
+82390148,Head injury,Moderate,N69.C
+12383727,Abdominal pain,Moderate,B36.R
+12383727,Pneumonia,Mild,P55.A
+98807832,Head injury,Severe,I37.A
+98807832,Head injury,Mild,A21.C
+20415125,Asthma,Moderate,Y23.B
+19148142,Pneumonia,Moderate,Z66.L
+52056457,Head injury,Severe,X57.M
+52056457,UTI,Severe,S05.I
+52056457,Sepsis,Severe,L37.C
+56552348,Gastroenteritis,Moderate,J42.B
+41953200,COPD exacerbation,Severe,A06.F
+79024908,Stroke,Severe,T34.R
+45025683,UTI,Mild,L47.W
+45025683,Myocardial infarction,Severe,O40.P
+34741536,UTI,Moderate,U18.K
+70883026,Fracture,Moderate,X29.R
+52945432,COPD exacerbation,Moderate,E66.Z
+52945432,Fracture,Moderate,Z80.F
+52945432,Pneumonia,Severe,S93.B
+8178899,Fracture,Mild,N62.E
+80387221,UTI,Severe,S48.Z
+13517452,Stroke,Moderate,J87.F
+13517452,Pneumonia,Severe,F94.E
+67297629,Abdominal pain,Severe,B90.G
+18805717,Myocardial infarction,Severe,W83.P
+31854384,COPD exacerbation,Moderate,N67.N
+88070633,UTI,Moderate,S19.R
+36714766,Fracture,Severe,P73.I
+96800775,UTI,Mild,G15.Q
+7215120,Sepsis,Moderate,N88.Y
+84454659,Asthma,Mild,N70.B
+37688760,UTI,Severe,F40.R
+37688760,Stroke,Moderate,T01.D
+51888232,UTI,Moderate,G54.Q
+26496398,Head injury,Severe,E73.J
+26496398,Pneumonia,Mild,C16.U
+5013029,Abdominal pain,Moderate,W77.H
+63156036,Head injury,Moderate,I04.K
+63156036,UTI,Mild,V77.P
+63156036,Fracture,Mild,I69.Y
+32024346,Myocardial infarction,Mild,Z83.S
+75779587,Pneumonia,Moderate,G83.C
+89865605,Stroke,Mild,Z49.K
+89865605,UTI,Severe,T84.Z
+89865605,Abdominal pain,Mild,Q09.G
+94008064,COPD exacerbation,Severe,G64.D
+95215607,COPD exacerbation,Severe,K14.Q
+24747176,Fracture,Mild,P42.S
+43185152,Stroke,Severe,R58.O
+80066555,UTI,Moderate,S32.R
+32864108,UTI,Mild,G62.S
+32864108,Myocardial infarction,Severe,V46.Z
+23441563,Appendicitis,Severe,Z96.L
+23441563,Asthma,Severe,U02.S
+23441563,Head injury,Severe,S24.F
+96346896,Head injury,Mild,W29.P
+1035894,UTI,Mild,Q45.J
+79242335,UTI,Moderate,K87.W
+76917348,Myocardial infarction,Moderate,X57.A
+76917348,Asthma,Moderate,W70.F
+38471767,Gastroenteritis,Moderate,U68.E
+38471767,Myocardial infarction,Mild,X66.G
+45956792,Appendicitis,Severe,I44.N
+38106513,Head injury,Mild,U73.J
+91157110,Head injury,Moderate,G48.R
+9099790,UTI,Mild,G81.D
+39172443,Gastroenteritis,Moderate,U18.N
+30053414,UTI,Moderate,I63.Y
+22343419,Asthma,Severe,T97.J
+89163911,Sepsis,Moderate,Q61.Z
+77813574,Fracture,Severe,L05.A
+67305216,UTI,Moderate,T87.T
+41471306,COPD exacerbation,Moderate,M11.T
+37433614,Fracture,Moderate,G81.Z
+37433614,COPD exacerbation,Moderate,U26.J
+37433614,Gastroenteritis,Moderate,N01.K
+16619746,Myocardial infarction,Severe,P75.K
+49714426,Head injury,Mild,Z99.K
+13061518,Appendicitis,Mild,E45.U
+71824614,Appendicitis,Moderate,C87.W
+78495506,Pneumonia,Severe,C36.C
+13779165,Stroke,Moderate,A96.T
+93419006,Appendicitis,Mild,V45.H
+93419006,Myocardial infarction,Severe,V13.K
+3043744,Stroke,Severe,C50.L
+94518659,Appendicitis,Moderate,X44.J
+94518659,Sepsis,Moderate,E16.T
+94518659,Fracture,Severe,H44.D
+85305970,Sepsis,Mild,Z89.Z
+85305970,Gastroenteritis,Severe,R00.C
+85305970,UTI,Mild,C13.E
+42337157,COPD exacerbation,Severe,E66.J
+87630821,Pneumonia,Moderate,J73.D
+63250788,Fracture,Severe,O76.N
+9364495,COPD exacerbation,Mild,C76.Z
+65038677,Pneumonia,Moderate,X39.Z
+65038677,Head injury,Moderate,E23.P
+88856119,Pneumonia,Severe,U24.B
+88856119,Sepsis,Severe,L04.O
+88856119,Sepsis,Severe,G36.W
+69525724,Myocardial infarction,Severe,A76.L
+36740512,Asthma,Severe,R06.H
+33921110,UTI,Severe,Z37.L
+33921110,COPD exacerbation,Severe,I08.A
+33921110,Pneumonia,Moderate,X90.H
+14743872,Abdominal pain,Mild,O93.H
+75831452,Head injury,Mild,A50.W
+75831452,Abdominal pain,Mild,W42.E
+75831452,COPD exacerbation,Moderate,W21.Z
+3143462,Appendicitis,Moderate,N97.J
+3143462,UTI,Mild,C79.M
+25743357,COPD exacerbation,Severe,V04.G
+3896870,Stroke,Severe,J11.T
+48577812,Fracture,Severe,T33.C
+62284018,COPD exacerbation,Moderate,E65.V
+19417635,Asthma,Severe,K19.J
+30062378,Appendicitis,Severe,M56.J
+30062378,COPD exacerbation,Severe,D85.M
+38963569,Sepsis,Moderate,J87.O
+92013975,Gastroenteritis,Severe,X36.E
+60372691,Pneumonia,Moderate,L56.W
+60372691,Myocardial infarction,Severe,Y85.W
+20641266,Myocardial infarction,Severe,R49.F
+82394576,COPD exacerbation,Moderate,J45.B
+88720128,Abdominal pain,Mild,P38.I
+20206191,UTI,Severe,R72.Q
+50335811,Pneumonia,Severe,P07.H
+49605895,Myocardial infarction,Severe,W15.H
+48358361,Abdominal pain,Mild,E29.R
+84080902,UTI,Moderate,H23.C
+44915145,Appendicitis,Severe,B06.R
+19175286,Gastroenteritis,Moderate,J69.J
+64702453,Appendicitis,Severe,J75.Z
+22230398,Appendicitis,Moderate,B67.X
+8463050,COPD exacerbation,Severe,B29.K
+8463050,Stroke,Severe,T59.D
+64363648,Head injury,Severe,U15.F
+6484598,UTI,Moderate,E06.L
+6484598,Head injury,Severe,D63.R
+4777501,UTI,Severe,U31.A
+66408854,Sepsis,Mild,D48.N
+66408854,Asthma,Moderate,G55.E
+91381659,Abdominal pain,Moderate,N65.M
+9372657,Abdominal pain,Mild,S79.L
+25000253,COPD exacerbation,Mild,C45.K
+9233882,Asthma,Severe,O19.R
+42487732,Abdominal pain,Mild,U44.E
+57848711,UTI,Moderate,L29.K
+36881352,Stroke,Mild,L16.J
+80806443,Pneumonia,Severe,X81.E
+80806443,Pneumonia,Mild,L51.M
+64064691,Asthma,Mild,T15.E
+79287747,Head injury,Moderate,D78.H
+51123961,Fracture,Severe,C97.V
+67136808,COPD exacerbation,Moderate,W29.V
+76421915,Sepsis,Severe,D98.C
+76421915,COPD exacerbation,Severe,P92.D
+12270070,Fracture,Moderate,Q92.C
+20673095,Pneumonia,Mild,C82.Y
+93537935,Gastroenteritis,Severe,W48.L
+17549699,Pneumonia,Mild,G14.G
+17549699,Abdominal pain,Moderate,O96.A
+93735840,Asthma,Mild,I96.C
+16268872,Fracture,Moderate,Y34.R
+37484096,Myocardial infarction,Severe,Y24.S
+63580197,Head injury,Moderate,N54.G
+49752192,Asthma,Severe,B81.K
+49752192,Head injury,Severe,O99.Z
+49752192,Sepsis,Severe,W57.D
+18256554,Head injury,Severe,U84.Z
+5611721,Abdominal pain,Severe,U75.I
+16175791,UTI,Moderate,N01.D
+16175791,Sepsis,Severe,K42.J
+16175791,Asthma,Moderate,O81.V
+80306880,Asthma,Severe,M57.H
+5126577,Appendicitis,Severe,O76.P
+89320274,Asthma,Severe,N69.X
+51996922,Abdominal pain,Severe,E36.F
+98499592,Sepsis,Mild,E47.X
+581284,Head injury,Moderate,L50.C
+18810040,COPD exacerbation,Severe,C37.E
+18810040,Appendicitis,Severe,M84.Y
+30919827,Fracture,Mild,I68.K
+36709889,Pneumonia,Mild,P40.G
+779753,Head injury,Moderate,W16.O
+49300885,COPD exacerbation,Severe,U99.V
+83994140,Fracture,Severe,V01.V
+30006522,Asthma,Mild,X11.Z
+43869259,Fracture,Mild,J61.E
+1358176,Head injury,Severe,T16.C
+94501838,UTI,Severe,D58.W
+66996609,Gastroenteritis,Mild,A35.L
+97130954,Abdominal pain,Moderate,T82.O
+17340742,Gastroenteritis,Mild,V02.F
+46184650,Gastroenteritis,Severe,V58.B
+71127151,Head injury,Mild,C84.M
+9872850,Gastroenteritis,Mild,Q47.Q
+10788285,Gastroenteritis,Mild,Q42.L
+10788285,COPD exacerbation,Mild,P84.I
+34586903,Fracture,Mild,E24.M
+56351031,Myocardial infarction,Moderate,R34.W
+43747354,Appendicitis,Mild,F76.M
+43747354,Fracture,Severe,L77.H
+58738582,Sepsis,Moderate,W39.S
+59772221,Head injury,Mild,R32.B
+54488331,Appendicitis,Mild,Q77.X
+2903436,COPD exacerbation,Severe,P28.O
+3832946,Appendicitis,Moderate,J90.P
+71528756,Stroke,Mild,L03.B
+98880860,Myocardial infarction,Moderate,L99.X
+33925085,Abdominal pain,Moderate,I82.D
+88431704,COPD exacerbation,Moderate,O62.R
+69838841,Head injury,Mild,V54.W
+69838841,Pneumonia,Moderate,I25.U
+16822472,Pneumonia,Moderate,X85.K
+76120423,Fracture,Severe,S92.J
+76120423,Head injury,Mild,E13.C
+76120423,Pneumonia,Moderate,J57.F
+10560304,Appendicitis,Severe,W25.J
+1279130,Pneumonia,Moderate,A70.A
+38784975,Head injury,Severe,L33.V
+1456313,Abdominal pain,Severe,U10.Q
+68699094,Asthma,Severe,F96.N
+68699094,Stroke,Severe,W48.L
+49165545,Asthma,Moderate,W29.Q
+49165545,Fracture,Severe,G57.I
+45116309,COPD exacerbation,Severe,K69.F
+44800561,Fracture,Severe,K49.C
+81809623,Fracture,Moderate,B58.A
+94062649,Pneumonia,Moderate,H61.B
+90847755,Pneumonia,Severe,B27.U
+44970234,Gastroenteritis,Severe,T47.B
+44970234,Appendicitis,Moderate,B10.Y
+44970234,Myocardial infarction,Mild,Q00.M
+12924014,Asthma,Moderate,V55.Q
+12924014,Asthma,Mild,R91.P
+20502680,UTI,Mild,I75.V
+91412599,Appendicitis,Severe,K64.Q
+32668453,Stroke,Moderate,Z48.P
+98782871,Appendicitis,Moderate,Q63.B
+98782871,COPD exacerbation,Mild,N10.D
+77905906,Gastroenteritis,Moderate,C60.H
+27406708,Stroke,Severe,Z39.X
+51079130,Head injury,Mild,W86.I
+40608516,Gastroenteritis,Mild,Y69.J
+33467148,Head injury,Severe,F26.B
+99473103,Stroke,Moderate,J16.O
+80494134,Asthma,Mild,V93.G
+80494134,UTI,Mild,K45.P
+80494134,Sepsis,Moderate,E27.N
+29100676,Asthma,Mild,Y54.Y
+29100676,Pneumonia,Severe,E98.T
+29100676,Stroke,Mild,O21.U
+56559596,Asthma,Severe,T47.L
+3800292,Gastroenteritis,Severe,N04.M
+80697187,Stroke,Moderate,G95.G
+85064519,UTI,Severe,M53.W
+79418272,Fracture,Mild,A16.U
+36108975,Asthma,Moderate,D40.L
+3006510,Fracture,Moderate,U13.S
+3006510,Head injury,Moderate,D24.E
+71454234,Abdominal pain,Mild,H61.F
+95215050,Appendicitis,Moderate,V92.C
+43774929,Sepsis,Severe,I16.W
+14119221,Sepsis,Moderate,F85.M
+74510615,COPD exacerbation,Mild,J65.Y
+74510615,Asthma,Mild,V05.D
+74510615,Fracture,Severe,Q23.H
+26093925,Fracture,Severe,S99.G
+26093925,Myocardial infarction,Moderate,L11.V
+67940594,Pneumonia,Severe,R90.L
+7498244,Asthma,Moderate,X81.D
+73371528,Head injury,Mild,D59.Y
+6126241,Myocardial infarction,Severe,Q75.L
+212444,Head injury,Mild,D48.H
+72915300,Appendicitis,Moderate,F94.J
+20877389,Gastroenteritis,Mild,V91.F
+82436395,Pneumonia,Moderate,V40.A
+65239049,Abdominal pain,Mild,Y35.L
+57075536,Head injury,Mild,K98.N
+69726134,Stroke,Moderate,G66.S
+34613738,Myocardial infarction,Severe,U69.H
+25789377,Sepsis,Severe,Y94.F
+23530456,Head injury,Severe,T84.N
+51082414,Appendicitis,Severe,A60.S
+67893016,Abdominal pain,Mild,S11.S
+59000778,UTI,Moderate,J69.L
+6668280,Myocardial infarction,Mild,K12.G
+68125503,Stroke,Mild,S58.O
+48232736,Fracture,Moderate,S31.G
+41904518,Myocardial infarction,Mild,H11.I
+12626644,COPD exacerbation,Mild,N23.T
+12626644,Head injury,Mild,R95.Y
+79331568,Abdominal pain,Mild,V23.R
+28136044,Stroke,Moderate,B60.T
+28136044,Fracture,Severe,X95.J
+35881582,COPD exacerbation,Severe,Z71.W
+35881582,Fracture,Severe,R66.I
+35881582,Head injury,Mild,W82.R
+86684852,Asthma,Mild,G39.G
+70262474,UTI,Severe,Z89.A
+70262474,Appendicitis,Moderate,N04.O
+61462824,Myocardial infarction,Moderate,O39.T
+61462824,Asthma,Moderate,J13.N
+25248318,Head injury,Severe,V70.P
+98854952,Head injury,Mild,F00.S
+54097795,Sepsis,Mild,W93.Z
+54097795,Stroke,Moderate,M53.A
+54097795,Pneumonia,Mild,B60.K
+9424852,Appendicitis,Mild,B00.O
+9424852,Fracture,Moderate,A50.N
+70221970,Head injury,Mild,W14.V
+70221970,Appendicitis,Mild,L83.L
+14889591,Head injury,Moderate,O63.V
+69046496,Stroke,Severe,C94.H
+42768366,UTI,Severe,Q87.F
+23011795,Head injury,Moderate,G42.F
+51123441,Gastroenteritis,Mild,H27.N
+1683148,Sepsis,Mild,I54.G
+1683148,COPD exacerbation,Mild,X85.B
+57919385,Abdominal pain,Moderate,E52.X
+72288934,Abdominal pain,Severe,V76.R
+18392687,Gastroenteritis,Moderate,T33.J
+18392687,Pneumonia,Severe,I74.N
+18392687,Abdominal pain,Mild,Y19.G
+9743186,Gastroenteritis,Severe,F31.U
+86146027,Gastroenteritis,Moderate,I81.Q
+6445875,Stroke,Severe,A54.J
+10154079,Asthma,Mild,B08.A
+5944395,Head injury,Severe,V66.J
+89084686,Gastroenteritis,Moderate,O64.C
+29741185,Appendicitis,Mild,J23.M
+29230509,Stroke,Moderate,Y47.Q
+75880193,UTI,Severe,V31.Y
+20117385,Asthma,Mild,E88.O
+20117385,Abdominal pain,Mild,B07.M
+11888669,Gastroenteritis,Mild,C30.P
+91551834,Stroke,Mild,E85.L
+29526617,Pneumonia,Moderate,R38.G
+48173732,Abdominal pain,Severe,T71.N
+48173732,Gastroenteritis,Severe,G70.X
+38593733,COPD exacerbation,Severe,R56.Q
+38593733,Pneumonia,Mild,Y65.S
+38593733,COPD exacerbation,Severe,V23.M
+11448451,UTI,Severe,T29.J
+11448451,Gastroenteritis,Moderate,H54.W
+12221592,Stroke,Mild,D89.G
+12221592,Head injury,Mild,N62.Q
+50361722,COPD exacerbation,Severe,M42.N
+23722111,COPD exacerbation,Mild,A04.V
+23722111,Gastroenteritis,Severe,H82.D
+23722111,Fracture,Severe,F55.G
+20696759,Asthma,Moderate,A48.G
+66008996,Abdominal pain,Moderate,J80.L
+66008996,Fracture,Severe,A66.O
+28940365,COPD exacerbation,Severe,Y60.L
+28940365,Asthma,Severe,F96.N
+46112177,Stroke,Moderate,W70.E
+50363260,Appendicitis,Moderate,R06.G
+62011463,Appendicitis,Severe,F52.S
+62011463,Abdominal pain,Mild,X83.C
+92545348,Head injury,Severe,Z80.F
+92545348,Myocardial infarction,Moderate,V24.Q
+92545348,Appendicitis,Moderate,Z20.R
+49202472,Myocardial infarction,Mild,X73.Q
+2461091,Appendicitis,Severe,F45.S
+9854380,Myocardial infarction,Severe,D49.O
+22374924,Gastroenteritis,Severe,Q66.I
+9308292,Myocardial infarction,Severe,N82.X
+21392342,Asthma,Severe,A70.J
+26978866,Appendicitis,Moderate,W51.Q
+95266847,UTI,Severe,V49.Y
+886608,Myocardial infarction,Severe,H56.B
+3265716,Fracture,Mild,C62.E
+3265716,Asthma,Moderate,O11.L
+5079808,Pneumonia,Moderate,V53.T
+84576645,UTI,Mild,D17.Q
+84576645,Pneumonia,Mild,I03.A
+57369850,Gastroenteritis,Moderate,M80.B
+40488920,UTI,Mild,O24.S
+74394211,Gastroenteritis,Mild,D42.I
+86844580,Asthma,Mild,S63.A
+66106140,Pneumonia,Moderate,D59.U
+91427192,Asthma,Moderate,L57.Z
+62656586,Appendicitis,Moderate,U49.W
+33234969,Pneumonia,Mild,R20.H
+10365345,Sepsis,Severe,P76.V
+94199653,UTI,Severe,I57.N
+94199653,Gastroenteritis,Severe,O61.M
+50863024,Sepsis,Severe,L92.U
+98077702,Myocardial infarction,Moderate,C68.E
+78936241,Appendicitis,Mild,Q51.U
+19375395,Head injury,Mild,F91.K
+19375395,Gastroenteritis,Severe,N71.A
+81895431,Fracture,Mild,M20.K
+19612337,Stroke,Severe,R80.G
+96571784,Pneumonia,Mild,M67.N
+65443891,Asthma,Severe,U53.D
+14857403,Abdominal pain,Severe,F72.N
+14857403,Asthma,Moderate,D76.Q
+98606442,Myocardial infarction,Mild,P61.E
+28623258,Head injury,Moderate,X85.R
+3019298,COPD exacerbation,Severe,M43.S
+83365740,Fracture,Severe,H67.V
+52951097,Stroke,Mild,W61.K
+19627112,COPD exacerbation,Severe,V64.Z
+31018741,Sepsis,Mild,I16.K
+61233678,Stroke,Moderate,O28.Z
+61233678,UTI,Mild,Z61.T
+15386869,Gastroenteritis,Severe,O01.D
+78087897,Abdominal pain,Moderate,U12.S
+78087897,Abdominal pain,Severe,B96.K
+39812995,Abdominal pain,Moderate,E06.Q
+78459332,Stroke,Mild,E76.V
+49005606,Myocardial infarction,Mild,J40.H
+95211524,COPD exacerbation,Mild,K55.K
+68147127,Myocardial infarction,Severe,I30.G
+51029442,Stroke,Moderate,J98.U
+52078805,Sepsis,Severe,J18.X
+69153459,Head injury,Moderate,H19.D
+69153459,Sepsis,Severe,G10.A
+69153459,Stroke,Severe,U43.U
+64434884,Fracture,Moderate,K86.K
+64434884,Abdominal pain,Severe,O53.Q
+64434884,Appendicitis,Severe,Z22.C
+85253460,Pneumonia,Mild,W80.R
+84592283,Abdominal pain,Moderate,X39.S
+27435671,Pneumonia,Moderate,E14.Q
+69746272,Asthma,Severe,Q85.B
+18279265,Pneumonia,Mild,J30.D
+18279265,Stroke,Severe,N54.T
+18279265,Gastroenteritis,Moderate,X14.O
+63069600,Head injury,Severe,V04.C
+6940882,Head injury,Mild,N17.M
+6940882,Gastroenteritis,Moderate,Y49.D
+6940882,Asthma,Moderate,P79.A
+95500707,Asthma,Mild,A43.W
+95500707,Myocardial infarction,Severe,Y20.D
+95500707,Stroke,Moderate,G16.D
+74059739,Pneumonia,Severe,V62.O
+74059739,Pneumonia,Moderate,A41.M
+65458272,UTI,Mild,C94.U
+43173669,Stroke,Severe,W82.U
+43173669,Stroke,Severe,J71.D
+40428668,Pneumonia,Mild,P97.V
+40428668,Appendicitis,Mild,F63.W
+52753367,Stroke,Mild,D06.W
+52753367,Pneumonia,Severe,C49.H
+52753367,Asthma,Mild,D72.I
+49656735,Fracture,Mild,D60.V
+37360160,Gastroenteritis,Mild,J29.G
+94040473,Sepsis,Severe,D09.C
+7605916,Appendicitis,Severe,R79.I
+77356246,Stroke,Mild,H69.M
+84319979,Asthma,Mild,M93.K
+87839642,COPD exacerbation,Severe,U27.D
+26263162,Pneumonia,Moderate,U16.X
+10886912,UTI,Severe,W05.L
+59237494,Stroke,Moderate,A11.E
+24685169,Head injury,Severe,R86.J
+66209282,Gastroenteritis,Moderate,H16.F
+43889118,Stroke,Mild,E72.T
+91696368,Gastroenteritis,Moderate,I08.M
+43016504,Appendicitis,Mild,O05.Y
+30487421,Abdominal pain,Mild,J93.Q
+30487421,Stroke,Mild,C01.U
+50360046,Stroke,Mild,U57.Z
+47381013,Stroke,Mild,F99.H
+78559055,Stroke,Severe,Q37.Z
+51014038,Abdominal pain,Moderate,F43.H
+35198267,Gastroenteritis,Severe,E34.L
+35198267,Asthma,Mild,M34.T
+10681992,Gastroenteritis,Mild,P28.S
+3130657,Head injury,Mild,O79.G
+9041020,Stroke,Moderate,R22.T
+29225612,Sepsis,Moderate,Y05.Q
+64619714,UTI,Moderate,T71.Y
+64619714,Stroke,Mild,C67.U
+98389131,Appendicitis,Moderate,R68.E
+98389131,Pneumonia,Moderate,D31.P
+96756659,Pneumonia,Mild,N16.J

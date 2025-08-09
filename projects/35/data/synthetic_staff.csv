@@ -1,0 +1,1540 @@
+patient_id,staff_id,staff_name,staff_role,shift
+36792266,88236,Jennifer Rice,Physician,Day
+36792266,618066,طارق الراشد,Resident,Day
+36792266,998838,Constanza Menendez Carmona,Intern,Day
+71120343,485384,Gabriel Allard,Nurse,Night
+18184625,7596,عزّ الدّين آل معيض,Resident,Night
+18184625,819149,لوليا آل مقطة,Technician,Evening
+18184625,751163,Dr. Aynur Flantz,Resident,Night
+82020498,108535,Alf Rosenow,Physician,Night
+5396939,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+41480793,218344,Ing. Rebekka Schweitzer,Resident,Day
+41480793,333230,Juan Francisco Herrera Grande,Nurse,Night
+7629299,562838,Jose Angel Goñi,Technician,Night
+7629299,434871,Bernhard Ruppersberger,Nurse,Evening
+22241367,842785,Aimée Lemonnier,Physician,Day
+22241367,82988,Edgar Frederick,Technician,Night
+25805749,231570,ديمه أبو داوود,Resident,Day
+39762670,766870,عبد الواحد المهنا,Physician,Evening
+1864796,984109,Isaac Pruvost-Andre,Intern,Night
+18878418,108535,Alf Rosenow,Physician,Night
+18878418,146284,عتيد أبا الخيل,Intern,Day
+52235301,7596,عزّ الدّين آل معيض,Resident,Night
+35420172,434871,Bernhard Ruppersberger,Nurse,Evening
+35420172,843504,Meagan Fitzpatrick,Intern,Evening
+20043266,963708,Sibylla Pohl B.Eng.,Physician,Night
+20043266,757491,Anneke Segebahn B.Eng.,Technician,Day
+20043266,843504,Meagan Fitzpatrick,Intern,Evening
+52801138,973262,Germán de Estévez,Intern,Evening
+52801138,573492,Luis Ángel Casado Porta,Technician,Evening
+52086947,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+40243932,984109,Isaac Pruvost-Andre,Intern,Night
+40243932,651483,Anke Trubin,Resident,Evening
+7661236,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+7661236,998838,Constanza Menendez Carmona,Intern,Day
+7661236,307403,Pierre Turpin,Nurse,Day
+12244321,314159,الأستاذة بشرى أبو داوود,Technician,Day
+12244321,973262,Germán de Estévez,Intern,Evening
+12244321,173454,Guy Philippe,Technician,Evening
+37152827,842785,Aimée Lemonnier,Physician,Day
+37152827,751163,Dr. Aynur Flantz,Resident,Night
+52531019,184508,قائد فصيل,Resident,Night
+51670195,651483,Anke Trubin,Resident,Evening
+51670195,173454,Guy Philippe,Technician,Evening
+94370560,231570,ديمه أبو داوود,Resident,Day
+94370560,948207,Mariah Smith,Intern,Night
+94370560,998838,Constanza Menendez Carmona,Intern,Day
+34761927,992470,Larry Lowe,Technician,Night
+77987949,998838,Constanza Menendez Carmona,Intern,Day
+77987949,935868,Steven Wang,Technician,Day
+77987949,618066,طارق الراشد,Resident,Day
+38890209,687256,Pedro Hierro,Physician,Evening
+17155997,230145,المهندسة إباء آل العسكري,Technician,Night
+2183532,766870,عبد الواحد المهنا,Physician,Evening
+2183532,41208,Matthieu Royer de la Brunet,Resident,Day
+65163145,36803,Frédérique de Rey,Resident,Day
+17520331,650680,Marcus Koch,Technician,Night
+48521510,230145,المهندسة إباء آل العسكري,Technician,Night
+6163694,991291,Matteo Baum B.Eng.,Physician,Day
+50589017,41208,Matthieu Royer de la Brunet,Resident,Day
+16243349,485384,Gabriel Allard,Nurse,Night
+16243349,146284,عتيد أبا الخيل,Intern,Day
+75817725,333230,Juan Francisco Herrera Grande,Nurse,Night
+75817725,231570,ديمه أبو داوود,Resident,Day
+75817725,650680,Marcus Koch,Technician,Night
+44704860,992470,Larry Lowe,Technician,Night
+63247698,502703,Mia Schmiedt,Intern,Day
+32880567,984109,Isaac Pruvost-Andre,Intern,Night
+57116608,769560,Margot Foucher,Technician,Evening
+57116608,333230,Juan Francisco Herrera Grande,Nurse,Night
+32975686,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+71081451,984109,Isaac Pruvost-Andre,Intern,Night
+13639946,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+29871096,573492,Luis Ángel Casado Porta,Technician,Evening
+75982619,218344,Ing. Rebekka Schweitzer,Resident,Day
+20118586,751163,Dr. Aynur Flantz,Resident,Night
+20118586,434871,Bernhard Ruppersberger,Nurse,Evening
+20118586,82988,Edgar Frederick,Technician,Night
+76716145,664769,Calvin Clark,Technician,Day
+39147872,664769,Calvin Clark,Technician,Day
+39147872,577770,Steven Huynh,Nurse,Evening
+32426746,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+37748905,618066,طارق الراشد,Resident,Day
+57887997,842785,Aimée Lemonnier,Physician,Day
+55529398,173454,Guy Philippe,Technician,Evening
+9700174,819149,لوليا آل مقطة,Technician,Evening
+60986722,502703,Mia Schmiedt,Intern,Day
+60986722,345587,أفراح كانو,Technician,Day
+96304082,502703,Mia Schmiedt,Intern,Day
+28051649,963708,Sibylla Pohl B.Eng.,Physician,Night
+28051649,757491,Anneke Segebahn B.Eng.,Technician,Day
+71494105,173454,Guy Philippe,Technician,Evening
+71494105,992470,Larry Lowe,Technician,Night
+1483552,935868,Steven Wang,Technician,Day
+1483552,948207,Mariah Smith,Intern,Night
+13740635,573492,Luis Ángel Casado Porta,Technician,Evening
+13740635,88236,Jennifer Rice,Physician,Day
+13740635,7596,عزّ الدّين آل معيض,Resident,Night
+75997171,650680,Marcus Koch,Technician,Night
+75997171,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+75997171,231570,ديمه أبو داوود,Resident,Day
+81283450,991291,Matteo Baum B.Eng.,Physician,Day
+88300920,562838,Jose Angel Goñi,Technician,Night
+79661298,7596,عزّ الدّين آل معيض,Resident,Night
+9715106,88236,Jennifer Rice,Physician,Day
+78109448,771619,Aurore de la Martineau,Nurse,Night
+78109448,769560,Margot Foucher,Technician,Evening
+55964342,173454,Guy Philippe,Technician,Evening
+77492365,307403,Pierre Turpin,Nurse,Day
+45656329,184508,قائد فصيل,Resident,Night
+45656329,618066,طارق الراشد,Resident,Day
+94024063,757491,Anneke Segebahn B.Eng.,Technician,Day
+88687178,36803,Frédérique de Rey,Resident,Day
+31292306,973262,Germán de Estévez,Intern,Evening
+31292306,173454,Guy Philippe,Technician,Evening
+56664914,88236,Jennifer Rice,Physician,Day
+89436534,984109,Isaac Pruvost-Andre,Intern,Night
+6958286,562838,Jose Angel Goñi,Technician,Night
+35925722,984109,Isaac Pruvost-Andre,Intern,Night
+82525253,651483,Anke Trubin,Resident,Evening
+96737527,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+95899787,650680,Marcus Koch,Technician,Night
+95899787,948207,Mariah Smith,Intern,Night
+91765927,842785,Aimée Lemonnier,Physician,Day
+7018996,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+7018996,146284,عتيد أبا الخيل,Intern,Day
+13904528,108535,Alf Rosenow,Physician,Night
+59744834,36803,Frédérique de Rey,Resident,Day
+59744834,766870,عبد الواحد المهنا,Physician,Evening
+21752750,562838,Jose Angel Goñi,Technician,Night
+9322360,769560,Margot Foucher,Technician,Evening
+53023450,41208,Matthieu Royer de la Brunet,Resident,Day
+7431704,562838,Jose Angel Goñi,Technician,Night
+9823096,757491,Anneke Segebahn B.Eng.,Technician,Day
+62047829,766870,عبد الواحد المهنا,Physician,Evening
+54644444,434871,Bernhard Ruppersberger,Nurse,Evening
+26255976,651483,Anke Trubin,Resident,Evening
+21873323,231570,ديمه أبو داوود,Resident,Day
+91269368,82988,Edgar Frederick,Technician,Night
+36426438,577770,Steven Huynh,Nurse,Evening
+36426438,998838,Constanza Menendez Carmona,Intern,Day
+23933821,231570,ديمه أبو داوود,Resident,Day
+23933821,88236,Jennifer Rice,Physician,Day
+33674005,434871,Bernhard Ruppersberger,Nurse,Evening
+33674005,771619,Aurore de la Martineau,Nurse,Night
+72561987,842785,Aimée Lemonnier,Physician,Day
+72561987,992470,Larry Lowe,Technician,Night
+72561987,991291,Matteo Baum B.Eng.,Physician,Day
+54135833,108535,Alf Rosenow,Physician,Night
+84694575,948207,Mariah Smith,Intern,Night
+59235168,307403,Pierre Turpin,Nurse,Day
+11607251,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+11607251,218344,Ing. Rebekka Schweitzer,Resident,Day
+32257560,984109,Isaac Pruvost-Andre,Intern,Night
+53781511,41208,Matthieu Royer de la Brunet,Resident,Day
+53781511,757491,Anneke Segebahn B.Eng.,Technician,Day
+53781511,502703,Mia Schmiedt,Intern,Day
+22361772,618066,طارق الراشد,Resident,Day
+55025097,36803,Frédérique de Rey,Resident,Day
+2510382,30217,Nadia Patiño Arjona,Physician,Night
+27356369,984109,Isaac Pruvost-Andre,Intern,Night
+36792943,992470,Larry Lowe,Technician,Night
+19514737,434871,Bernhard Ruppersberger,Nurse,Evening
+23262357,771619,Aurore de la Martineau,Nurse,Night
+8690230,664769,Calvin Clark,Technician,Day
+9060899,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+68192471,333230,Juan Francisco Herrera Grande,Nurse,Night
+27500002,842785,Aimée Lemonnier,Physician,Day
+27500002,230145,المهندسة إباء آل العسكري,Technician,Night
+26724631,992470,Larry Lowe,Technician,Night
+38071592,573492,Luis Ángel Casado Porta,Technician,Evening
+18664094,687256,Pedro Hierro,Physician,Evening
+18664094,7596,عزّ الدّين آل معيض,Resident,Night
+18664094,184508,قائد فصيل,Resident,Night
+64299349,819149,لوليا آل مقطة,Technician,Evening
+72859510,664769,Calvin Clark,Technician,Day
+9094581,88236,Jennifer Rice,Physician,Day
+9094581,7596,عزّ الدّين آل معيض,Resident,Night
+9094581,30217,Nadia Patiño Arjona,Physician,Night
+58091986,963708,Sibylla Pohl B.Eng.,Physician,Night
+87681245,935868,Steven Wang,Technician,Day
+79081347,231570,ديمه أبو داوود,Resident,Day
+79081347,998838,Constanza Menendez Carmona,Intern,Day
+79081347,843504,Meagan Fitzpatrick,Intern,Evening
+52307564,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+97913967,41208,Matthieu Royer de la Brunet,Resident,Day
+97913967,333230,Juan Francisco Herrera Grande,Nurse,Night
+97913967,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+30732786,577770,Steven Huynh,Nurse,Evening
+11356385,41208,Matthieu Royer de la Brunet,Resident,Day
+93886724,948207,Mariah Smith,Intern,Night
+8942652,948207,Mariah Smith,Intern,Night
+86135911,973262,Germán de Estévez,Intern,Evening
+86135911,41208,Matthieu Royer de la Brunet,Resident,Day
+18336272,618066,طارق الراشد,Resident,Day
+44864380,843504,Meagan Fitzpatrick,Intern,Evening
+15641893,307403,Pierre Turpin,Nurse,Day
+59511793,618066,طارق الراشد,Resident,Day
+59511793,757491,Anneke Segebahn B.Eng.,Technician,Day
+54572836,769560,Margot Foucher,Technician,Evening
+60658045,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+60658045,998838,Constanza Menendez Carmona,Intern,Day
+60658045,751163,Dr. Aynur Flantz,Resident,Night
+17391926,992470,Larry Lowe,Technician,Night
+27791103,984109,Isaac Pruvost-Andre,Intern,Night
+91220075,998838,Constanza Menendez Carmona,Intern,Day
+21367476,651483,Anke Trubin,Resident,Evening
+21367476,948207,Mariah Smith,Intern,Night
+21367476,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+66775252,531506,Curro Tena Izaguirre,Nurse,Night
+74289317,651483,Anke Trubin,Resident,Evening
+68681052,843504,Meagan Fitzpatrick,Intern,Evening
+88163239,485384,Gabriel Allard,Nurse,Night
+3340668,687256,Pedro Hierro,Physician,Evening
+28586725,41208,Matthieu Royer de la Brunet,Resident,Day
+32292,41208,Matthieu Royer de la Brunet,Resident,Day
+73752526,30217,Nadia Patiño Arjona,Physician,Night
+73752526,819149,لوليا آل مقطة,Technician,Evening
+82229308,992470,Larry Lowe,Technician,Night
+82229308,434871,Bernhard Ruppersberger,Nurse,Evening
+82229308,230145,المهندسة إباء آل العسكري,Technician,Night
+93853496,973262,Germán de Estévez,Intern,Evening
+93853496,314159,الأستاذة بشرى أبو داوود,Technician,Day
+30452991,184508,قائد فصيل,Resident,Night
+30452991,819149,لوليا آل مقطة,Technician,Evening
+62181534,842785,Aimée Lemonnier,Physician,Day
+27449356,345587,أفراح كانو,Technician,Day
+27449356,973262,Germán de Estévez,Intern,Evening
+7343523,963708,Sibylla Pohl B.Eng.,Physician,Night
+30628793,173454,Guy Philippe,Technician,Evening
+82618068,651483,Anke Trubin,Resident,Evening
+30640127,36803,Frédérique de Rey,Resident,Day
+23203851,991291,Matteo Baum B.Eng.,Physician,Day
+4899219,577770,Steven Huynh,Nurse,Evening
+56316374,231570,ديمه أبو داوود,Resident,Day
+15236213,531506,Curro Tena Izaguirre,Nurse,Night
+1332570,757491,Anneke Segebahn B.Eng.,Technician,Day
+592415,651483,Anke Trubin,Resident,Evening
+58967645,766870,عبد الواحد المهنا,Physician,Evening
+58967645,664769,Calvin Clark,Technician,Day
+58967645,30217,Nadia Patiño Arjona,Physician,Night
+52240392,88236,Jennifer Rice,Physician,Day
+43860140,650680,Marcus Koch,Technician,Night
+43860140,998838,Constanza Menendez Carmona,Intern,Day
+98154986,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+80092253,973262,Germán de Estévez,Intern,Evening
+80092253,146284,عتيد أبا الخيل,Intern,Day
+85292597,771619,Aurore de la Martineau,Nurse,Night
+47868227,108535,Alf Rosenow,Physician,Night
+15244949,769560,Margot Foucher,Technician,Evening
+27821186,307403,Pierre Turpin,Nurse,Day
+18271604,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+31475798,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+73805049,531506,Curro Tena Izaguirre,Nurse,Night
+26531200,751163,Dr. Aynur Flantz,Resident,Night
+78739783,935868,Steven Wang,Technician,Day
+55153926,173454,Guy Philippe,Technician,Evening
+55153926,7596,عزّ الدّين آل معيض,Resident,Night
+41568032,7596,عزّ الدّين آل معيض,Resident,Night
+41568032,651483,Anke Trubin,Resident,Evening
+41568032,30217,Nadia Patiño Arjona,Physician,Night
+63161056,843504,Meagan Fitzpatrick,Intern,Evening
+63161056,502703,Mia Schmiedt,Intern,Day
+58593100,485384,Gabriel Allard,Nurse,Night
+17468253,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+99953177,651483,Anke Trubin,Resident,Evening
+99953177,687256,Pedro Hierro,Physician,Evening
+79530651,819149,لوليا آل مقطة,Technician,Evening
+2254819,314159,الأستاذة بشرى أبو داوود,Technician,Day
+94716562,963708,Sibylla Pohl B.Eng.,Physician,Night
+94716562,935868,Steven Wang,Technician,Day
+94909843,36803,Frédérique de Rey,Resident,Day
+82616846,434871,Bernhard Ruppersberger,Nurse,Evening
+82616846,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+82616846,843504,Meagan Fitzpatrick,Intern,Evening
+46770385,819149,لوليا آل مقطة,Technician,Evening
+46770385,230145,المهندسة إباء آل العسكري,Technician,Night
+46770385,173454,Guy Philippe,Technician,Evening
+13208674,751163,Dr. Aynur Flantz,Resident,Night
+49556791,992470,Larry Lowe,Technician,Night
+49556791,307403,Pierre Turpin,Nurse,Day
+81730353,173454,Guy Philippe,Technician,Evening
+48010777,30217,Nadia Patiño Arjona,Physician,Night
+36901194,992470,Larry Lowe,Technician,Night
+36901194,502703,Mia Schmiedt,Intern,Day
+56588572,88236,Jennifer Rice,Physician,Day
+6053701,973262,Germán de Estévez,Intern,Evening
+79475976,485384,Gabriel Allard,Nurse,Night
+71442163,618066,طارق الراشد,Resident,Day
+72773943,314159,الأستاذة بشرى أبو داوود,Technician,Day
+72773943,531506,Curro Tena Izaguirre,Nurse,Night
+59116183,314159,الأستاذة بشرى أبو داوود,Technician,Day
+49631798,757491,Anneke Segebahn B.Eng.,Technician,Day
+49631798,573492,Luis Ángel Casado Porta,Technician,Evening
+72602480,88236,Jennifer Rice,Physician,Day
+45344657,36803,Frédérique de Rey,Resident,Day
+45344657,108535,Alf Rosenow,Physician,Night
+45344657,7596,عزّ الدّين آل معيض,Resident,Night
+42410710,771619,Aurore de la Martineau,Nurse,Night
+29874255,88236,Jennifer Rice,Physician,Day
+75734290,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+75734290,771619,Aurore de la Martineau,Nurse,Night
+33957716,502703,Mia Schmiedt,Intern,Day
+89191432,485384,Gabriel Allard,Nurse,Night
+8192961,948207,Mariah Smith,Intern,Night
+567455,948207,Mariah Smith,Intern,Night
+69079393,386181,Sybille Seifert,Technician,Evening
+33485974,146284,عتيد أبا الخيل,Intern,Day
+33485974,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+33485974,992470,Larry Lowe,Technician,Night
+84092750,843504,Meagan Fitzpatrick,Intern,Evening
+72897224,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+35814083,231570,ديمه أبو داوود,Resident,Day
+56456475,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+84707936,651483,Anke Trubin,Resident,Evening
+33129405,231570,ديمه أبو داوود,Resident,Day
+87984938,651483,Anke Trubin,Resident,Evening
+87984938,664769,Calvin Clark,Technician,Day
+87984938,948207,Mariah Smith,Intern,Night
+30040552,991291,Matteo Baum B.Eng.,Physician,Day
+22154226,963708,Sibylla Pohl B.Eng.,Physician,Night
+22154226,769560,Margot Foucher,Technician,Evening
+47897443,333230,Juan Francisco Herrera Grande,Nurse,Night
+25635389,36803,Frédérique de Rey,Resident,Day
+25635389,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+25635389,82988,Edgar Frederick,Technician,Night
+76399198,173454,Guy Philippe,Technician,Evening
+99959902,7596,عزّ الدّين آل معيض,Resident,Night
+99959902,771619,Aurore de la Martineau,Nurse,Night
+99959902,998838,Constanza Menendez Carmona,Intern,Day
+84390304,531506,Curro Tena Izaguirre,Nurse,Night
+56539009,184508,قائد فصيل,Resident,Night
+51381925,345587,أفراح كانو,Technician,Day
+51381925,146284,عتيد أبا الخيل,Intern,Day
+51381925,771619,Aurore de la Martineau,Nurse,Night
+77306704,687256,Pedro Hierro,Physician,Evening
+97613436,573492,Luis Ángel Casado Porta,Technician,Evening
+51505936,230145,المهندسة إباء آل العسكري,Technician,Night
+51505936,82988,Edgar Frederick,Technician,Night
+51505936,842785,Aimée Lemonnier,Physician,Day
+86497194,531506,Curro Tena Izaguirre,Nurse,Night
+8263782,88236,Jennifer Rice,Physician,Day
+84706946,333230,Juan Francisco Herrera Grande,Nurse,Night
+90683862,935868,Steven Wang,Technician,Day
+90683862,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+1789359,307403,Pierre Turpin,Nurse,Day
+1789359,650680,Marcus Koch,Technician,Night
+77069145,573492,Luis Ángel Casado Porta,Technician,Evening
+31181445,766870,عبد الواحد المهنا,Physician,Evening
+94223402,766870,عبد الواحد المهنا,Physician,Evening
+94223402,562838,Jose Angel Goñi,Technician,Night
+27889150,769560,Margot Foucher,Technician,Evening
+49408759,573492,Luis Ángel Casado Porta,Technician,Evening
+22604597,757491,Anneke Segebahn B.Eng.,Technician,Day
+22604597,577770,Steven Huynh,Nurse,Evening
+22604597,173454,Guy Philippe,Technician,Evening
+72063663,769560,Margot Foucher,Technician,Evening
+63440846,7596,عزّ الدّين آل معيض,Resident,Night
+17912267,573492,Luis Ángel Casado Porta,Technician,Evening
+17912267,819149,لوليا آل مقطة,Technician,Evening
+17912267,30217,Nadia Patiño Arjona,Physician,Night
+25951506,998838,Constanza Menendez Carmona,Intern,Day
+25951506,757491,Anneke Segebahn B.Eng.,Technician,Day
+19268968,992470,Larry Lowe,Technician,Night
+11287730,434871,Bernhard Ruppersberger,Nurse,Evening
+26072799,307403,Pierre Turpin,Nurse,Day
+26072799,184508,قائد فصيل,Resident,Night
+50111288,184508,قائد فصيل,Resident,Night
+72507439,314159,الأستاذة بشرى أبو داوود,Technician,Day
+67828956,30217,Nadia Patiño Arjona,Physician,Night
+68100398,819149,لوليا آل مقطة,Technician,Evening
+67927154,618066,طارق الراشد,Resident,Day
+90870608,577770,Steven Huynh,Nurse,Evening
+63946283,998838,Constanza Menendez Carmona,Intern,Day
+78398430,651483,Anke Trubin,Resident,Evening
+78398430,935868,Steven Wang,Technician,Day
+78398430,231570,ديمه أبو داوود,Resident,Day
+13723822,434871,Bernhard Ruppersberger,Nurse,Evening
+13723822,935868,Steven Wang,Technician,Day
+57786871,842785,Aimée Lemonnier,Physician,Day
+13235225,664769,Calvin Clark,Technician,Day
+13235225,531506,Curro Tena Izaguirre,Nurse,Night
+13235225,41208,Matthieu Royer de la Brunet,Resident,Day
+16889176,218344,Ing. Rebekka Schweitzer,Resident,Day
+60545912,41208,Matthieu Royer de la Brunet,Resident,Day
+60545912,948207,Mariah Smith,Intern,Night
+47115609,41208,Matthieu Royer de la Brunet,Resident,Day
+42899168,386181,Sybille Seifert,Technician,Evening
+42899168,333230,Juan Francisco Herrera Grande,Nurse,Night
+46714457,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+46714457,618066,طارق الراشد,Resident,Day
+46714457,41208,Matthieu Royer de la Brunet,Resident,Day
+95128117,434871,Bernhard Ruppersberger,Nurse,Evening
+95128117,7596,عزّ الدّين آل معيض,Resident,Night
+95128117,108535,Alf Rosenow,Physician,Night
+89241259,36803,Frédérique de Rey,Resident,Day
+4950614,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+4950614,386181,Sybille Seifert,Technician,Evening
+48603508,963708,Sibylla Pohl B.Eng.,Physician,Night
+48603508,36803,Frédérique de Rey,Resident,Day
+59721058,618066,طارق الراشد,Resident,Day
+20848505,36803,Frédérique de Rey,Resident,Day
+54894317,664769,Calvin Clark,Technician,Day
+28447850,769560,Margot Foucher,Technician,Evening
+25512679,146284,عتيد أبا الخيل,Intern,Day
+58018561,562838,Jose Angel Goñi,Technician,Night
+58018561,998838,Constanza Menendez Carmona,Intern,Day
+60778763,769560,Margot Foucher,Technician,Evening
+60609670,333230,Juan Francisco Herrera Grande,Nurse,Night
+14645920,973262,Germán de Estévez,Intern,Evening
+4663177,687256,Pedro Hierro,Physician,Evening
+55920500,757491,Anneke Segebahn B.Eng.,Technician,Day
+2493729,307403,Pierre Turpin,Nurse,Day
+1513892,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+87004679,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+87004679,231570,ديمه أبو داوود,Resident,Day
+87004679,618066,طارق الراشد,Resident,Day
+83114516,82988,Edgar Frederick,Technician,Night
+83114516,230145,المهندسة إباء آل العسكري,Technician,Night
+83114516,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+45153346,664769,Calvin Clark,Technician,Day
+45153346,991291,Matteo Baum B.Eng.,Physician,Day
+26131789,577770,Steven Huynh,Nurse,Evening
+12871825,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+22012298,230145,المهندسة إباء آل العسكري,Technician,Night
+22012298,82988,Edgar Frederick,Technician,Night
+73171804,230145,المهندسة إباء آل العسكري,Technician,Night
+73171804,819149,لوليا آل مقطة,Technician,Evening
+37034393,30217,Nadia Patiño Arjona,Physician,Night
+70087211,88236,Jennifer Rice,Physician,Day
+69800118,41208,Matthieu Royer de la Brunet,Resident,Day
+98393011,502703,Mia Schmiedt,Intern,Day
+54252841,843504,Meagan Fitzpatrick,Intern,Evening
+73138070,935868,Steven Wang,Technician,Day
+95914287,82988,Edgar Frederick,Technician,Night
+31691597,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+8727426,998838,Constanza Menendez Carmona,Intern,Day
+43668151,82988,Edgar Frederick,Technician,Night
+43668151,562838,Jose Angel Goñi,Technician,Night
+43668151,650680,Marcus Koch,Technician,Night
+78478015,984109,Isaac Pruvost-Andre,Intern,Night
+78401259,650680,Marcus Koch,Technician,Night
+78401259,984109,Isaac Pruvost-Andre,Intern,Night
+78401259,7596,عزّ الدّين آل معيض,Resident,Night
+24968234,573492,Luis Ángel Casado Porta,Technician,Evening
+76137771,485384,Gabriel Allard,Nurse,Night
+12129323,843504,Meagan Fitzpatrick,Intern,Evening
+38782851,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+80532391,485384,Gabriel Allard,Nurse,Night
+80532391,36803,Frédérique de Rey,Resident,Day
+4812546,984109,Isaac Pruvost-Andre,Intern,Night
+4812546,650680,Marcus Koch,Technician,Night
+4812546,434871,Bernhard Ruppersberger,Nurse,Evening
+88498319,577770,Steven Huynh,Nurse,Evening
+57743165,108535,Alf Rosenow,Physician,Night
+36561605,757491,Anneke Segebahn B.Eng.,Technician,Day
+36561605,231570,ديمه أبو داوود,Resident,Day
+22644338,184508,قائد فصيل,Resident,Night
+18724896,230145,المهندسة إباء آل العسكري,Technician,Night
+18724896,41208,Matthieu Royer de la Brunet,Resident,Day
+43416784,345587,أفراح كانو,Technician,Day
+27325109,184508,قائد فصيل,Resident,Night
+89108229,146284,عتيد أبا الخيل,Intern,Day
+28404593,664769,Calvin Clark,Technician,Day
+88890225,751163,Dr. Aynur Flantz,Resident,Night
+88890225,650680,Marcus Koch,Technician,Night
+88890225,307403,Pierre Turpin,Nurse,Day
+59117395,998838,Constanza Menendez Carmona,Intern,Day
+59117395,771619,Aurore de la Martineau,Nurse,Night
+17549965,562838,Jose Angel Goñi,Technician,Night
+10767319,751163,Dr. Aynur Flantz,Resident,Night
+10767319,502703,Mia Schmiedt,Intern,Day
+10767319,618066,طارق الراشد,Resident,Day
+23542472,771619,Aurore de la Martineau,Nurse,Night
+23542472,36803,Frédérique de Rey,Resident,Day
+23542472,218344,Ing. Rebekka Schweitzer,Resident,Day
+86211544,562838,Jose Angel Goñi,Technician,Night
+78940488,434871,Bernhard Ruppersberger,Nurse,Evening
+54305788,485384,Gabriel Allard,Nurse,Night
+54305788,618066,طارق الراشد,Resident,Day
+83060278,573492,Luis Ángel Casado Porta,Technician,Evening
+83060278,843504,Meagan Fitzpatrick,Intern,Evening
+83060278,998838,Constanza Menendez Carmona,Intern,Day
+27413819,687256,Pedro Hierro,Physician,Evening
+96319652,7596,عزّ الدّين آل معيض,Resident,Night
+22670848,307403,Pierre Turpin,Nurse,Day
+24374739,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+42157285,766870,عبد الواحد المهنا,Physician,Evening
+25201930,948207,Mariah Smith,Intern,Night
+25201930,218344,Ing. Rebekka Schweitzer,Resident,Day
+25201930,963708,Sibylla Pohl B.Eng.,Physician,Night
+13977418,314159,الأستاذة بشرى أبو داوود,Technician,Day
+12403895,573492,Luis Ángel Casado Porta,Technician,Evening
+12403895,757491,Anneke Segebahn B.Eng.,Technician,Day
+43830051,819149,لوليا آل مقطة,Technician,Evening
+45581213,434871,Bernhard Ruppersberger,Nurse,Evening
+11455843,218344,Ing. Rebekka Schweitzer,Resident,Day
+93269291,935868,Steven Wang,Technician,Day
+65390904,766870,عبد الواحد المهنا,Physician,Evening
+65390904,36803,Frédérique de Rey,Resident,Day
+56620337,41208,Matthieu Royer de la Brunet,Resident,Day
+51008439,108535,Alf Rosenow,Physician,Night
+57165336,434871,Bernhard Ruppersberger,Nurse,Evening
+96344770,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+96344770,41208,Matthieu Royer de la Brunet,Resident,Day
+64283154,991291,Matteo Baum B.Eng.,Physician,Day
+94154575,502703,Mia Schmiedt,Intern,Day
+94154575,386181,Sybille Seifert,Technician,Evening
+80981576,751163,Dr. Aynur Flantz,Resident,Night
+50729950,41208,Matthieu Royer de la Brunet,Resident,Day
+68620257,842785,Aimée Lemonnier,Physician,Day
+68620257,41208,Matthieu Royer de la Brunet,Resident,Day
+68620257,757491,Anneke Segebahn B.Eng.,Technician,Day
+15971535,651483,Anke Trubin,Resident,Evening
+31506951,230145,المهندسة إباء آل العسكري,Technician,Night
+52571083,769560,Margot Foucher,Technician,Evening
+60274415,7596,عزّ الدّين آل معيض,Resident,Night
+11118851,434871,Bernhard Ruppersberger,Nurse,Evening
+11118851,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+8829237,687256,Pedro Hierro,Physician,Evening
+8829237,984109,Isaac Pruvost-Andre,Intern,Night
+8829237,314159,الأستاذة بشرى أبو داوود,Technician,Day
+61565655,146284,عتيد أبا الخيل,Intern,Day
+61565655,173454,Guy Philippe,Technician,Evening
+61565655,7596,عزّ الدّين آل معيض,Resident,Night
+83655200,769560,Margot Foucher,Technician,Evening
+83655200,650680,Marcus Koch,Technician,Night
+96862238,345587,أفراح كانو,Technician,Day
+25000601,984109,Isaac Pruvost-Andre,Intern,Night
+25000601,485384,Gabriel Allard,Nurse,Night
+25000601,992470,Larry Lowe,Technician,Night
+17649193,333230,Juan Francisco Herrera Grande,Nurse,Night
+15179265,88236,Jennifer Rice,Physician,Day
+81088529,531506,Curro Tena Izaguirre,Nurse,Night
+21367010,935868,Steven Wang,Technician,Day
+21367010,333230,Juan Francisco Herrera Grande,Nurse,Night
+24746367,687256,Pedro Hierro,Physician,Evening
+72322540,485384,Gabriel Allard,Nurse,Night
+88506285,998838,Constanza Menendez Carmona,Intern,Day
+62233994,650680,Marcus Koch,Technician,Night
+62233994,819149,لوليا آل مقطة,Technician,Evening
+62233994,687256,Pedro Hierro,Physician,Evening
+98649275,819149,لوليا آل مقطة,Technician,Evening
+59324240,184508,قائد فصيل,Resident,Night
+59324240,146284,عتيد أبا الخيل,Intern,Day
+59324240,230145,المهندسة إباء آل العسكري,Technician,Night
+32640991,562838,Jose Angel Goñi,Technician,Night
+32640991,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+32640991,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+57188439,948207,Mariah Smith,Intern,Night
+63772420,307403,Pierre Turpin,Nurse,Day
+72473334,88236,Jennifer Rice,Physician,Day
+34738441,757491,Anneke Segebahn B.Eng.,Technician,Day
+77590085,766870,عبد الواحد المهنا,Physician,Evening
+77282416,687256,Pedro Hierro,Physician,Evening
+77282416,650680,Marcus Koch,Technician,Night
+77282416,108535,Alf Rosenow,Physician,Night
+84778629,30217,Nadia Patiño Arjona,Physician,Night
+84778629,314159,الأستاذة بشرى أبو داوود,Technician,Day
+84778629,650680,Marcus Koch,Technician,Night
+43135813,218344,Ing. Rebekka Schweitzer,Resident,Day
+47505632,651483,Anke Trubin,Resident,Evening
+47505632,88236,Jennifer Rice,Physician,Day
+81846789,173454,Guy Philippe,Technician,Evening
+82900119,935868,Steven Wang,Technician,Day
+98585488,173454,Guy Philippe,Technician,Evening
+98585488,998838,Constanza Menendez Carmona,Intern,Day
+28829956,842785,Aimée Lemonnier,Physician,Day
+28829956,577770,Steven Huynh,Nurse,Evening
+23064837,963708,Sibylla Pohl B.Eng.,Physician,Night
+23064837,577770,Steven Huynh,Nurse,Evening
+97072022,333230,Juan Francisco Herrera Grande,Nurse,Night
+76030458,386181,Sybille Seifert,Technician,Evening
+29398878,650680,Marcus Koch,Technician,Night
+31204781,562838,Jose Angel Goñi,Technician,Night
+31204781,88236,Jennifer Rice,Physician,Day
+65525288,41208,Matthieu Royer de la Brunet,Resident,Day
+65525288,819149,لوليا آل مقطة,Technician,Evening
+65525288,843504,Meagan Fitzpatrick,Intern,Evening
+47727028,819149,لوليا آل مقطة,Technician,Evening
+98692481,998838,Constanza Menendez Carmona,Intern,Day
+89853650,751163,Dr. Aynur Flantz,Resident,Night
+17398503,651483,Anke Trubin,Resident,Evening
+28995117,173454,Guy Philippe,Technician,Evening
+36291118,333230,Juan Francisco Herrera Grande,Nurse,Night
+43278206,146284,عتيد أبا الخيل,Intern,Day
+91163468,531506,Curro Tena Izaguirre,Nurse,Night
+76991397,218344,Ing. Rebekka Schweitzer,Resident,Day
+17322655,757491,Anneke Segebahn B.Eng.,Technician,Day
+90159304,218344,Ing. Rebekka Schweitzer,Resident,Day
+90159304,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+90159304,108535,Alf Rosenow,Physician,Night
+5553272,842785,Aimée Lemonnier,Physician,Day
+93323343,562838,Jose Angel Goñi,Technician,Night
+93323343,307403,Pierre Turpin,Nurse,Day
+93323343,618066,طارق الراشد,Resident,Day
+62006433,842785,Aimée Lemonnier,Physician,Day
+75961588,218344,Ing. Rebekka Schweitzer,Resident,Day
+11390152,41208,Matthieu Royer de la Brunet,Resident,Day
+11390152,687256,Pedro Hierro,Physician,Evening
+28481296,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+13784423,771619,Aurore de la Martineau,Nurse,Night
+41594623,998838,Constanza Menendez Carmona,Intern,Day
+41594623,314159,الأستاذة بشرى أبو داوود,Technician,Day
+41594623,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+47501591,562838,Jose Angel Goñi,Technician,Night
+47501591,766870,عبد الواحد المهنا,Physician,Evening
+47501591,842785,Aimée Lemonnier,Physician,Day
+33585356,650680,Marcus Koch,Technician,Night
+80431240,843504,Meagan Fitzpatrick,Intern,Evening
+93279256,963708,Sibylla Pohl B.Eng.,Physician,Night
+93279256,991291,Matteo Baum B.Eng.,Physician,Day
+93279256,184508,قائد فصيل,Resident,Night
+12349318,184508,قائد فصيل,Resident,Night
+7146579,146284,عتيد أبا الخيل,Intern,Day
+7146579,307403,Pierre Turpin,Nurse,Day
+7146579,842785,Aimée Lemonnier,Physician,Day
+18755994,231570,ديمه أبو داوود,Resident,Day
+18755994,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+68253461,502703,Mia Schmiedt,Intern,Day
+60386583,314159,الأستاذة بشرى أبو داوود,Technician,Day
+36542815,687256,Pedro Hierro,Physician,Evening
+56528902,573492,Luis Ángel Casado Porta,Technician,Evening
+12987350,650680,Marcus Koch,Technician,Night
+43766600,991291,Matteo Baum B.Eng.,Physician,Day
+58203437,345587,أفراح كانو,Technician,Day
+33250087,314159,الأستاذة بشرى أبو داوود,Technician,Day
+16478563,843504,Meagan Fitzpatrick,Intern,Evening
+12575418,935868,Steven Wang,Technician,Day
+54191108,36803,Frédérique de Rey,Resident,Day
+11900444,88236,Jennifer Rice,Physician,Day
+36955085,41208,Matthieu Royer de la Brunet,Resident,Day
+63251639,577770,Steven Huynh,Nurse,Evening
+60524311,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+133549,998838,Constanza Menendez Carmona,Intern,Day
+41967141,577770,Steven Huynh,Nurse,Evening
+71788105,650680,Marcus Koch,Technician,Night
+61148850,948207,Mariah Smith,Intern,Night
+43222088,948207,Mariah Smith,Intern,Night
+84452503,502703,Mia Schmiedt,Intern,Day
+84452503,146284,عتيد أبا الخيل,Intern,Day
+82796445,984109,Isaac Pruvost-Andre,Intern,Night
+71394811,230145,المهندسة إباء آل العسكري,Technician,Night
+71394811,618066,طارق الراشد,Resident,Day
+71394811,843504,Meagan Fitzpatrick,Intern,Evening
+32630983,307403,Pierre Turpin,Nurse,Day
+32630983,963708,Sibylla Pohl B.Eng.,Physician,Night
+32630983,333230,Juan Francisco Herrera Grande,Nurse,Night
+8059985,766870,عبد الواحد المهنا,Physician,Evening
+8059985,108535,Alf Rosenow,Physician,Night
+8059985,618066,طارق الراشد,Resident,Day
+79629896,173454,Guy Philippe,Technician,Evening
+79629896,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+7386750,531506,Curro Tena Izaguirre,Nurse,Night
+64140424,30217,Nadia Patiño Arjona,Physician,Night
+27776705,771619,Aurore de la Martineau,Nurse,Night
+27776705,307403,Pierre Turpin,Nurse,Day
+27776705,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+2730033,842785,Aimée Lemonnier,Physician,Day
+2730033,314159,الأستاذة بشرى أبو داوود,Technician,Day
+58115762,842785,Aimée Lemonnier,Physician,Day
+58115762,314159,الأستاذة بشرى أبو داوود,Technician,Day
+92850667,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+92850667,531506,Curro Tena Izaguirre,Nurse,Night
+92850667,307403,Pierre Turpin,Nurse,Day
+70181422,757491,Anneke Segebahn B.Eng.,Technician,Day
+12428571,531506,Curro Tena Izaguirre,Nurse,Night
+10505599,314159,الأستاذة بشرى أبو داوود,Technician,Day
+10505599,562838,Jose Angel Goñi,Technician,Night
+10505599,935868,Steven Wang,Technician,Day
+27483829,36803,Frédérique de Rey,Resident,Day
+27483829,82988,Edgar Frederick,Technician,Night
+42989891,991291,Matteo Baum B.Eng.,Physician,Day
+42989891,218344,Ing. Rebekka Schweitzer,Resident,Day
+18110125,650680,Marcus Koch,Technician,Night
+82394164,562838,Jose Angel Goñi,Technician,Night
+66820248,333230,Juan Francisco Herrera Grande,Nurse,Night
+78083057,184508,قائد فصيل,Resident,Night
+97983628,577770,Steven Huynh,Nurse,Evening
+97983628,618066,طارق الراشد,Resident,Day
+65387926,502703,Mia Schmiedt,Intern,Day
+43135632,771619,Aurore de la Martineau,Nurse,Night
+43135632,651483,Anke Trubin,Resident,Evening
+43135632,218344,Ing. Rebekka Schweitzer,Resident,Day
+39901257,573492,Luis Ángel Casado Porta,Technician,Evening
+27906699,650680,Marcus Koch,Technician,Night
+20212003,184508,قائد فصيل,Resident,Night
+93279941,650680,Marcus Koch,Technician,Night
+55276184,751163,Dr. Aynur Flantz,Resident,Night
+55276184,108535,Alf Rosenow,Physician,Night
+77475100,843504,Meagan Fitzpatrick,Intern,Evening
+77475100,7596,عزّ الدّين آل معيض,Resident,Night
+681985,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+5814667,843504,Meagan Fitzpatrick,Intern,Evening
+5814667,562838,Jose Angel Goñi,Technician,Night
+5814667,231570,ديمه أبو داوود,Resident,Day
+37464189,948207,Mariah Smith,Intern,Night
+72458237,434871,Bernhard Ruppersberger,Nurse,Evening
+2402258,963708,Sibylla Pohl B.Eng.,Physician,Night
+27341402,948207,Mariah Smith,Intern,Night
+27341402,88236,Jennifer Rice,Physician,Day
+74824936,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+93991640,769560,Margot Foucher,Technician,Evening
+27948197,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+27948197,963708,Sibylla Pohl B.Eng.,Physician,Night
+61399860,819149,لوليا آل مقطة,Technician,Evening
+3972473,434871,Bernhard Ruppersberger,Nurse,Evening
+91725208,218344,Ing. Rebekka Schweitzer,Resident,Day
+54875482,502703,Mia Schmiedt,Intern,Day
+54875482,577770,Steven Huynh,Nurse,Evening
+54875482,36803,Frédérique de Rey,Resident,Day
+67304057,843504,Meagan Fitzpatrick,Intern,Evening
+6706547,935868,Steven Wang,Technician,Day
+11943040,434871,Bernhard Ruppersberger,Nurse,Evening
+6882889,650680,Marcus Koch,Technician,Night
+6882889,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+81840222,992470,Larry Lowe,Technician,Night
+31203855,664769,Calvin Clark,Technician,Day
+31203855,769560,Margot Foucher,Technician,Evening
+31203855,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+92717213,664769,Calvin Clark,Technician,Day
+52596964,998838,Constanza Menendez Carmona,Intern,Day
+78389344,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+68726150,218344,Ing. Rebekka Schweitzer,Resident,Day
+15268761,502703,Mia Schmiedt,Intern,Day
+15268761,345587,أفراح كانو,Technician,Day
+15268761,7596,عزّ الدّين آل معيض,Resident,Night
+23330316,998838,Constanza Menendez Carmona,Intern,Day
+23330316,948207,Mariah Smith,Intern,Night
+4768339,651483,Anke Trubin,Resident,Evening
+12738463,108535,Alf Rosenow,Physician,Night
+12738463,573492,Luis Ángel Casado Porta,Technician,Evening
+12738463,766870,عبد الواحد المهنا,Physician,Evening
+59588594,314159,الأستاذة بشرى أبو داوود,Technician,Day
+80166727,230145,المهندسة إباء آل العسكري,Technician,Night
+69320825,651483,Anke Trubin,Resident,Evening
+26545869,769560,Margot Foucher,Technician,Evening
+84996157,771619,Aurore de la Martineau,Nurse,Night
+92591960,992470,Larry Lowe,Technician,Night
+56911481,7596,عزّ الدّين آل معيض,Resident,Night
+56911481,307403,Pierre Turpin,Nurse,Day
+56911481,41208,Matthieu Royer de la Brunet,Resident,Day
+79369899,108535,Alf Rosenow,Physician,Night
+32121914,984109,Isaac Pruvost-Andre,Intern,Night
+76746553,984109,Isaac Pruvost-Andre,Intern,Night
+76746553,651483,Anke Trubin,Resident,Evening
+28909760,963708,Sibylla Pohl B.Eng.,Physician,Night
+28909760,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+28909760,751163,Dr. Aynur Flantz,Resident,Night
+81742512,36803,Frédérique de Rey,Resident,Day
+20141678,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+20141678,345587,أفراح كانو,Technician,Day
+20141678,757491,Anneke Segebahn B.Eng.,Technician,Day
+45740413,992470,Larry Lowe,Technician,Night
+8233955,562838,Jose Angel Goñi,Technician,Night
+26084473,307403,Pierre Turpin,Nurse,Day
+9860508,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+58715781,766870,عبد الواحد المهنا,Physician,Evening
+58715781,218344,Ing. Rebekka Schweitzer,Resident,Day
+35888222,485384,Gabriel Allard,Nurse,Night
+98630553,231570,ديمه أبو داوود,Resident,Day
+91539958,842785,Aimée Lemonnier,Physician,Day
+91539958,7596,عزّ الدّين آل معيض,Resident,Night
+91539958,218344,Ing. Rebekka Schweitzer,Resident,Day
+67188566,991291,Matteo Baum B.Eng.,Physician,Day
+95907300,984109,Isaac Pruvost-Andre,Intern,Night
+95907300,485384,Gabriel Allard,Nurse,Night
+39470620,992470,Larry Lowe,Technician,Night
+39470620,485384,Gabriel Allard,Nurse,Night
+11362774,842785,Aimée Lemonnier,Physician,Day
+98622819,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+30767937,531506,Curro Tena Izaguirre,Nurse,Night
+30767937,948207,Mariah Smith,Intern,Night
+30767937,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+45649786,386181,Sybille Seifert,Technician,Evening
+45649786,434871,Bernhard Ruppersberger,Nurse,Evening
+29270402,963708,Sibylla Pohl B.Eng.,Physician,Night
+61365977,651483,Anke Trubin,Resident,Evening
+52463346,502703,Mia Schmiedt,Intern,Day
+51145869,434871,Bernhard Ruppersberger,Nurse,Evening
+51145869,687256,Pedro Hierro,Physician,Evening
+51145869,577770,Steven Huynh,Nurse,Evening
+3180342,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+9764459,963708,Sibylla Pohl B.Eng.,Physician,Night
+55442791,573492,Luis Ángel Casado Porta,Technician,Evening
+55442791,146284,عتيد أبا الخيل,Intern,Day
+55442791,108535,Alf Rosenow,Physician,Night
+3941044,992470,Larry Lowe,Technician,Night
+65099783,992470,Larry Lowe,Technician,Night
+65099783,173454,Guy Philippe,Technician,Evening
+65099783,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+33449960,991291,Matteo Baum B.Eng.,Physician,Day
+10019402,485384,Gabriel Allard,Nurse,Night
+46057641,7596,عزّ الدّين آل معيض,Resident,Night
+32513216,651483,Anke Trubin,Resident,Evening
+32513216,41208,Matthieu Royer de la Brunet,Resident,Day
+73280472,992470,Larry Lowe,Technician,Night
+73280472,771619,Aurore de la Martineau,Nurse,Night
+73280472,434871,Bernhard Ruppersberger,Nurse,Evening
+76333993,307403,Pierre Turpin,Nurse,Day
+76333993,819149,لوليا آل مقطة,Technician,Evening
+76333993,991291,Matteo Baum B.Eng.,Physician,Day
+90123932,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+60264479,30217,Nadia Patiño Arjona,Physician,Night
+69216409,386181,Sybille Seifert,Technician,Evening
+6302166,963708,Sibylla Pohl B.Eng.,Physician,Night
+68841328,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+92802134,573492,Luis Ángel Casado Porta,Technician,Evening
+53911235,771619,Aurore de la Martineau,Nurse,Night
+53911235,618066,طارق الراشد,Resident,Day
+3958834,502703,Mia Schmiedt,Intern,Day
+86864169,562838,Jose Angel Goñi,Technician,Night
+86864169,650680,Marcus Koch,Technician,Night
+78024563,992470,Larry Lowe,Technician,Night
+30471552,230145,المهندسة إباء آل العسكري,Technician,Night
+85830990,651483,Anke Trubin,Resident,Evening
+93166864,184508,قائد فصيل,Resident,Night
+93166864,41208,Matthieu Royer de la Brunet,Resident,Day
+93166864,434871,Bernhard Ruppersberger,Nurse,Evening
+47022748,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+47022748,231570,ديمه أبو داوود,Resident,Day
+47022748,30217,Nadia Patiño Arjona,Physician,Night
+99569006,771619,Aurore de la Martineau,Nurse,Night
+7013660,173454,Guy Philippe,Technician,Evening
+5543271,231570,ديمه أبو داوود,Resident,Day
+43273119,769560,Margot Foucher,Technician,Evening
+84768415,618066,طارق الراشد,Resident,Day
+84768415,173454,Guy Philippe,Technician,Evening
+84768415,843504,Meagan Fitzpatrick,Intern,Evening
+75840400,434871,Bernhard Ruppersberger,Nurse,Evening
+75840400,650680,Marcus Koch,Technician,Night
+75840400,184508,قائد فصيل,Resident,Night
+53779891,991291,Matteo Baum B.Eng.,Physician,Day
+28968228,651483,Anke Trubin,Resident,Evening
+28968228,650680,Marcus Koch,Technician,Night
+18215518,651483,Anke Trubin,Resident,Evening
+80041356,386181,Sybille Seifert,Technician,Evening
+80041356,771619,Aurore de la Martineau,Nurse,Night
+80041356,935868,Steven Wang,Technician,Day
+12536498,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+12536498,973262,Germán de Estévez,Intern,Evening
+12536498,184508,قائد فصيل,Resident,Night
+94930396,751163,Dr. Aynur Flantz,Resident,Night
+99509375,345587,أفراح كانو,Technician,Day
+99509375,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+86444833,991291,Matteo Baum B.Eng.,Physician,Day
+76673326,184508,قائد فصيل,Resident,Night
+76673326,36803,Frédérique de Rey,Resident,Day
+76673326,843504,Meagan Fitzpatrick,Intern,Evening
+50488198,36803,Frédérique de Rey,Resident,Day
+63771614,751163,Dr. Aynur Flantz,Resident,Night
+31006288,687256,Pedro Hierro,Physician,Evening
+28645342,562838,Jose Angel Goñi,Technician,Night
+18458161,963708,Sibylla Pohl B.Eng.,Physician,Night
+29797551,769560,Margot Foucher,Technician,Evening
+29797551,963708,Sibylla Pohl B.Eng.,Physician,Night
+74664539,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+74664539,218344,Ing. Rebekka Schweitzer,Resident,Day
+74664539,973262,Germán de Estévez,Intern,Evening
+24415958,173454,Guy Philippe,Technician,Evening
+35965224,843504,Meagan Fitzpatrick,Intern,Evening
+59881695,573492,Luis Ángel Casado Porta,Technician,Evening
+61488857,650680,Marcus Koch,Technician,Night
+61488857,664769,Calvin Clark,Technician,Day
+2361134,935868,Steven Wang,Technician,Day
+2361134,573492,Luis Ángel Casado Porta,Technician,Evening
+2361134,998838,Constanza Menendez Carmona,Intern,Day
+80654762,751163,Dr. Aynur Flantz,Resident,Night
+41086143,998838,Constanza Menendez Carmona,Intern,Day
+15911495,618066,طارق الراشد,Resident,Day
+15911495,502703,Mia Schmiedt,Intern,Day
+15911495,531506,Curro Tena Izaguirre,Nurse,Night
+50032819,434871,Bernhard Ruppersberger,Nurse,Evening
+50032819,345587,أفراح كانو,Technician,Day
+50032819,973262,Germán de Estévez,Intern,Evening
+87224835,973262,Germán de Estévez,Intern,Evening
+22353459,30217,Nadia Patiño Arjona,Physician,Night
+93949920,184508,قائد فصيل,Resident,Night
+93949920,146284,عتيد أبا الخيل,Intern,Day
+93949920,573492,Luis Ángel Casado Porta,Technician,Evening
+84451587,502703,Mia Schmiedt,Intern,Day
+7221513,485384,Gabriel Allard,Nurse,Night
+7221513,333230,Juan Francisco Herrera Grande,Nurse,Night
+7221513,842785,Aimée Lemonnier,Physician,Day
+59212602,963708,Sibylla Pohl B.Eng.,Physician,Night
+16348609,307403,Pierre Turpin,Nurse,Day
+16348609,843504,Meagan Fitzpatrick,Intern,Evening
+84079691,41208,Matthieu Royer de la Brunet,Resident,Day
+84079691,998838,Constanza Menendez Carmona,Intern,Day
+31575214,345587,أفراح كانو,Technician,Day
+31575214,562838,Jose Angel Goñi,Technician,Night
+31575214,769560,Margot Foucher,Technician,Evening
+63414510,231570,ديمه أبو داوود,Resident,Day
+63414510,618066,طارق الراشد,Resident,Day
+63414510,984109,Isaac Pruvost-Andre,Intern,Night
+33461952,651483,Anke Trubin,Resident,Evening
+38484684,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+69955060,687256,Pedro Hierro,Physician,Evening
+69955060,485384,Gabriel Allard,Nurse,Night
+69955060,664769,Calvin Clark,Technician,Day
+86724552,485384,Gabriel Allard,Nurse,Night
+3038692,434871,Bernhard Ruppersberger,Nurse,Evening
+8421044,231570,ديمه أبو داوود,Resident,Day
+8421044,769560,Margot Foucher,Technician,Evening
+9248015,386181,Sybille Seifert,Technician,Evening
+63653659,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+63653659,650680,Marcus Koch,Technician,Night
+63653659,345587,أفراح كانو,Technician,Day
+27057261,485384,Gabriel Allard,Nurse,Night
+51596391,843504,Meagan Fitzpatrick,Intern,Evening
+51883732,984109,Isaac Pruvost-Andre,Intern,Night
+51883732,82988,Edgar Frederick,Technician,Night
+51883732,314159,الأستاذة بشرى أبو داوود,Technician,Day
+92731241,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+92731241,434871,Bernhard Ruppersberger,Nurse,Evening
+92731241,485384,Gabriel Allard,Nurse,Night
+92113878,218344,Ing. Rebekka Schweitzer,Resident,Day
+88010800,218344,Ing. Rebekka Schweitzer,Resident,Day
+30626974,992470,Larry Lowe,Technician,Night
+49488003,531506,Curro Tena Izaguirre,Nurse,Night
+49488003,82988,Edgar Frederick,Technician,Night
+85671056,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+42329963,766870,عبد الواحد المهنا,Physician,Evening
+24677375,7596,عزّ الدّين آل معيض,Resident,Night
+14334410,314159,الأستاذة بشرى أبو داوود,Technician,Day
+14334410,687256,Pedro Hierro,Physician,Evening
+96663920,769560,Margot Foucher,Technician,Evening
+41779850,230145,المهندسة إباء آل العسكري,Technician,Night
+18571548,963708,Sibylla Pohl B.Eng.,Physician,Night
+57399043,333230,Juan Francisco Herrera Grande,Nurse,Night
+81694447,751163,Dr. Aynur Flantz,Resident,Night
+81694447,664769,Calvin Clark,Technician,Day
+48275082,618066,طارق الراشد,Resident,Day
+27511535,618066,طارق الراشد,Resident,Day
+27511535,842785,Aimée Lemonnier,Physician,Day
+27511535,650680,Marcus Koch,Technician,Night
+23927429,973262,Germán de Estévez,Intern,Evening
+4853071,485384,Gabriel Allard,Nurse,Night
+79156528,36803,Frédérique de Rey,Resident,Day
+79156528,434871,Bernhard Ruppersberger,Nurse,Evening
+79156528,230145,المهندسة إباء آل العسكري,Technician,Night
+83757178,991291,Matteo Baum B.Eng.,Physician,Day
+79929705,333230,Juan Francisco Herrera Grande,Nurse,Night
+4026765,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+91611469,650680,Marcus Koch,Technician,Night
+58658594,664769,Calvin Clark,Technician,Day
+34946838,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+94801452,345587,أفراح كانو,Technician,Day
+94801452,973262,Germán de Estévez,Intern,Evening
+46766731,766870,عبد الواحد المهنا,Physician,Evening
+11457708,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+15250443,998838,Constanza Menendez Carmona,Intern,Day
+79962937,973262,Germán de Estévez,Intern,Evening
+79962937,307403,Pierre Turpin,Nurse,Day
+79962937,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+9055726,973262,Germán de Estévez,Intern,Evening
+9055726,7596,عزّ الدّين آل معيض,Resident,Night
+9055726,30217,Nadia Patiño Arjona,Physician,Night
+81822226,345587,أفراح كانو,Technician,Day
+81822226,230145,المهندسة إباء آل العسكري,Technician,Night
+48379445,650680,Marcus Koch,Technician,Night
+11913019,769560,Margot Foucher,Technician,Evening
+93044569,314159,الأستاذة بشرى أبو داوود,Technician,Day
+23165886,687256,Pedro Hierro,Physician,Evening
+88473188,664769,Calvin Clark,Technician,Day
+88473188,108535,Alf Rosenow,Physician,Night
+88473188,485384,Gabriel Allard,Nurse,Night
+90707300,935868,Steven Wang,Technician,Day
+82390148,757491,Anneke Segebahn B.Eng.,Technician,Day
+82390148,30217,Nadia Patiño Arjona,Physician,Night
+82390148,502703,Mia Schmiedt,Intern,Day
+12383727,82988,Edgar Frederick,Technician,Night
+12383727,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+98807832,618066,طارق الراشد,Resident,Day
+20415125,231570,ديمه أبو داوود,Resident,Day
+19148142,771619,Aurore de la Martineau,Nurse,Night
+52056457,82988,Edgar Frederick,Technician,Night
+56552348,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+41953200,998838,Constanza Menendez Carmona,Intern,Day
+41953200,687256,Pedro Hierro,Physician,Evening
+79024908,231570,ديمه أبو داوود,Resident,Day
+45025683,992470,Larry Lowe,Technician,Night
+45025683,998838,Constanza Menendez Carmona,Intern,Day
+34741536,650680,Marcus Koch,Technician,Night
+70883026,7596,عزّ الدّين آل معيض,Resident,Night
+70883026,650680,Marcus Koch,Technician,Night
+70883026,184508,قائد فصيل,Resident,Night
+52945432,842785,Aimée Lemonnier,Physician,Day
+52945432,82988,Edgar Frederick,Technician,Night
+52945432,935868,Steven Wang,Technician,Day
+8178899,108535,Alf Rosenow,Physician,Night
+8178899,757491,Anneke Segebahn B.Eng.,Technician,Day
+80387221,992470,Larry Lowe,Technician,Night
+80387221,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+13517452,41208,Matthieu Royer de la Brunet,Resident,Day
+67297629,345587,أفراح كانو,Technician,Day
+67297629,218344,Ing. Rebekka Schweitzer,Resident,Day
+67297629,757491,Anneke Segebahn B.Eng.,Technician,Day
+18805717,948207,Mariah Smith,Intern,Night
+31854384,687256,Pedro Hierro,Physician,Evening
+31854384,973262,Germán de Estévez,Intern,Evening
+31854384,314159,الأستاذة بشرى أبو داوود,Technician,Day
+88070633,650680,Marcus Koch,Technician,Night
+36714766,757491,Anneke Segebahn B.Eng.,Technician,Day
+96800775,307403,Pierre Turpin,Nurse,Day
+96800775,30217,Nadia Patiño Arjona,Physician,Night
+96800775,651483,Anke Trubin,Resident,Evening
+7215120,842785,Aimée Lemonnier,Physician,Day
+84454659,769560,Margot Foucher,Technician,Evening
+37688760,998838,Constanza Menendez Carmona,Intern,Day
+51888232,502703,Mia Schmiedt,Intern,Day
+51888232,992470,Larry Lowe,Technician,Night
+26496398,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+5013029,984109,Isaac Pruvost-Andre,Intern,Night
+63156036,82988,Edgar Frederick,Technician,Night
+32024346,973262,Germán de Estévez,Intern,Evening
+32024346,82988,Edgar Frederick,Technician,Night
+32024346,991291,Matteo Baum B.Eng.,Physician,Day
+75779587,992470,Larry Lowe,Technician,Night
+89865605,651483,Anke Trubin,Resident,Evening
+94008064,231570,ديمه أبو داوود,Resident,Day
+95215607,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+95215607,819149,لوليا آل مقطة,Technician,Evening
+95215607,173454,Guy Philippe,Technician,Evening
+24747176,230145,المهندسة إباء آل العسكري,Technician,Night
+24747176,687256,Pedro Hierro,Physician,Evening
+24747176,562838,Jose Angel Goñi,Technician,Night
+43185152,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+80066555,819149,لوليا آل مقطة,Technician,Evening
+32864108,935868,Steven Wang,Technician,Day
+32864108,108535,Alf Rosenow,Physician,Night
+32864108,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+23441563,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+23441563,30217,Nadia Patiño Arjona,Physician,Night
+96346896,230145,المهندسة إباء آل العسكري,Technician,Night
+96346896,618066,طارق الراشد,Resident,Day
+96346896,992470,Larry Lowe,Technician,Night
+1035894,963708,Sibylla Pohl B.Eng.,Physician,Night
+1035894,757491,Anneke Segebahn B.Eng.,Technician,Day
+79242335,88236,Jennifer Rice,Physician,Day
+76917348,108535,Alf Rosenow,Physician,Night
+38471767,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+45956792,984109,Isaac Pruvost-Andre,Intern,Night
+38106513,307403,Pierre Turpin,Nurse,Day
+38106513,184508,قائد فصيل,Resident,Night
+91157110,963708,Sibylla Pohl B.Eng.,Physician,Night
+9099790,843504,Meagan Fitzpatrick,Intern,Evening
+39172443,751163,Dr. Aynur Flantz,Resident,Night
+30053414,819149,لوليا آل مقطة,Technician,Evening
+22343419,41208,Matthieu Royer de la Brunet,Resident,Day
+89163911,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+89163911,935868,Steven Wang,Technician,Day
+89163911,502703,Mia Schmiedt,Intern,Day
+77813574,108535,Alf Rosenow,Physician,Night
+77813574,819149,لوليا آل مقطة,Technician,Evening
+67305216,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+67305216,41208,Matthieu Royer de la Brunet,Resident,Day
+41471306,218344,Ing. Rebekka Schweitzer,Resident,Day
+37433614,531506,Curro Tena Izaguirre,Nurse,Night
+16619746,345587,أفراح كانو,Technician,Day
+16619746,333230,Juan Francisco Herrera Grande,Nurse,Night
+49714426,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+13061518,998838,Constanza Menendez Carmona,Intern,Day
+13061518,577770,Steven Huynh,Nurse,Evening
+13061518,771619,Aurore de la Martineau,Nurse,Night
+71824614,935868,Steven Wang,Technician,Day
+71824614,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+71824614,843504,Meagan Fitzpatrick,Intern,Evening
+78495506,766870,عبد الواحد المهنا,Physician,Evening
+13779165,618066,طارق الراشد,Resident,Day
+93419006,935868,Steven Wang,Technician,Day
+3043744,502703,Mia Schmiedt,Intern,Day
+94518659,618066,طارق الراشد,Resident,Day
+85305970,231570,ديمه أبو داوود,Resident,Day
+42337157,998838,Constanza Menendez Carmona,Intern,Day
+42337157,36803,Frédérique de Rey,Resident,Day
+87630821,819149,لوليا آل مقطة,Technician,Evening
+63250788,843504,Meagan Fitzpatrick,Intern,Evening
+63250788,231570,ديمه أبو داوود,Resident,Day
+63250788,651483,Anke Trubin,Resident,Evening
+9364495,184508,قائد فصيل,Resident,Night
+65038677,651483,Anke Trubin,Resident,Evening
+88856119,751163,Dr. Aynur Flantz,Resident,Night
+69525724,963708,Sibylla Pohl B.Eng.,Physician,Night
+36740512,7596,عزّ الدّين آل معيض,Resident,Night
+33921110,751163,Dr. Aynur Flantz,Resident,Night
+14743872,963708,Sibylla Pohl B.Eng.,Physician,Night
+75831452,108535,Alf Rosenow,Physician,Night
+75831452,984109,Isaac Pruvost-Andre,Intern,Night
+3143462,314159,الأستاذة بشرى أبو داوود,Technician,Day
+3143462,502703,Mia Schmiedt,Intern,Day
+25743357,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+3896870,434871,Bernhard Ruppersberger,Nurse,Evening
+48577812,314159,الأستاذة بشرى أبو داوود,Technician,Day
+62284018,991291,Matteo Baum B.Eng.,Physician,Day
+62284018,751163,Dr. Aynur Flantz,Resident,Night
+19417635,502703,Mia Schmiedt,Intern,Day
+19417635,386181,Sybille Seifert,Technician,Evening
+30062378,502703,Mia Schmiedt,Intern,Day
+38963569,664769,Calvin Clark,Technician,Day
+92013975,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+60372691,218344,Ing. Rebekka Schweitzer,Resident,Day
+20641266,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+82394576,173454,Guy Philippe,Technician,Evening
+82394576,30217,Nadia Patiño Arjona,Physician,Night
+82394576,7596,عزّ الدّين آل معيض,Resident,Night
+88720128,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+20206191,843504,Meagan Fitzpatrick,Intern,Evening
+50335811,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+49605895,314159,الأستاذة بشرى أبو داوود,Technician,Day
+48358361,963708,Sibylla Pohl B.Eng.,Physician,Night
+48358361,618066,طارق الراشد,Resident,Day
+84080902,531506,Curro Tena Izaguirre,Nurse,Night
+44915145,173454,Guy Philippe,Technician,Evening
+44915145,998838,Constanza Menendez Carmona,Intern,Day
+44915145,771619,Aurore de la Martineau,Nurse,Night
+19175286,973262,Germán de Estévez,Intern,Evening
+19175286,984109,Isaac Pruvost-Andre,Intern,Night
+19175286,992470,Larry Lowe,Technician,Night
+64702453,218344,Ing. Rebekka Schweitzer,Resident,Day
+22230398,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+8463050,333230,Juan Francisco Herrera Grande,Nurse,Night
+64363648,502703,Mia Schmiedt,Intern,Day
+6484598,314159,الأستاذة بشرى أبو داوود,Technician,Day
+4777501,998838,Constanza Menendez Carmona,Intern,Day
+66408854,41208,Matthieu Royer de la Brunet,Resident,Day
+66408854,562838,Jose Angel Goñi,Technician,Night
+91381659,82988,Edgar Frederick,Technician,Night
+9372657,485384,Gabriel Allard,Nurse,Night
+9372657,935868,Steven Wang,Technician,Day
+25000253,973262,Germán de Estévez,Intern,Evening
+9233882,771619,Aurore de la Martineau,Nurse,Night
+9233882,108535,Alf Rosenow,Physician,Night
+42487732,88236,Jennifer Rice,Physician,Day
+57848711,819149,لوليا آل مقطة,Technician,Evening
+36881352,991291,Matteo Baum B.Eng.,Physician,Day
+80806443,664769,Calvin Clark,Technician,Day
+64064691,41208,Matthieu Royer de la Brunet,Resident,Day
+79287747,766870,عبد الواحد المهنا,Physician,Evening
+79287747,231570,ديمه أبو داوود,Resident,Day
+51123961,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+67136808,30217,Nadia Patiño Arjona,Physician,Night
+76421915,984109,Isaac Pruvost-Andre,Intern,Night
+12270070,573492,Luis Ángel Casado Porta,Technician,Evening
+20673095,577770,Steven Huynh,Nurse,Evening
+93537935,769560,Margot Foucher,Technician,Evening
+93537935,502703,Mia Schmiedt,Intern,Day
+93537935,650680,Marcus Koch,Technician,Night
+17549699,562838,Jose Angel Goñi,Technician,Night
+93735840,345587,أفراح كانو,Technician,Day
+16268872,502703,Mia Schmiedt,Intern,Day
+37484096,769560,Margot Foucher,Technician,Evening
+37484096,230145,المهندسة إباء آل العسكري,Technician,Night
+37484096,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+63580197,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+63580197,82988,Edgar Frederick,Technician,Night
+63580197,502703,Mia Schmiedt,Intern,Day
+49752192,842785,Aimée Lemonnier,Physician,Day
+49752192,769560,Margot Foucher,Technician,Evening
+49752192,963708,Sibylla Pohl B.Eng.,Physician,Night
+18256554,88236,Jennifer Rice,Physician,Day
+18256554,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+5611721,819149,لوليا آل مقطة,Technician,Evening
+16175791,173454,Guy Philippe,Technician,Evening
+16175791,751163,Dr. Aynur Flantz,Resident,Night
+80306880,231570,ديمه أبو داوود,Resident,Day
+5126577,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+89320274,998838,Constanza Menendez Carmona,Intern,Day
+89320274,36803,Frédérique de Rey,Resident,Day
+51996922,771619,Aurore de la Martineau,Nurse,Night
+98499592,687256,Pedro Hierro,Physician,Evening
+581284,998838,Constanza Menendez Carmona,Intern,Day
+581284,819149,لوليا آل مقطة,Technician,Evening
+18810040,231570,ديمه أبو داوود,Resident,Day
+30919827,231570,ديمه أبو داوود,Resident,Day
+36709889,36803,Frédérique de Rey,Resident,Day
+779753,485384,Gabriel Allard,Nurse,Night
+49300885,531506,Curro Tena Izaguirre,Nurse,Night
+49300885,88236,Jennifer Rice,Physician,Day
+49300885,485384,Gabriel Allard,Nurse,Night
+83994140,650680,Marcus Koch,Technician,Night
+83994140,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+83994140,41208,Matthieu Royer de la Brunet,Resident,Day
+30006522,562838,Jose Angel Goñi,Technician,Night
+43869259,618066,طارق الراشد,Resident,Day
+1358176,819149,لوليا آل مقطة,Technician,Evening
+1358176,998838,Constanza Menendez Carmona,Intern,Day
+94501838,7596,عزّ الدّين آل معيض,Resident,Night
+94501838,984109,Isaac Pruvost-Andre,Intern,Night
+66996609,650680,Marcus Koch,Technician,Night
+97130954,992470,Larry Lowe,Technician,Night
+17340742,843504,Meagan Fitzpatrick,Intern,Evening
+46184650,485384,Gabriel Allard,Nurse,Night
+46184650,751163,Dr. Aynur Flantz,Resident,Night
+71127151,230145,المهندسة إباء آل العسكري,Technician,Night
+71127151,531506,Curro Tena Izaguirre,Nurse,Night
+9872850,766870,عبد الواحد المهنا,Physician,Evening
+9872850,434871,Bernhard Ruppersberger,Nurse,Evening
+10788285,771619,Aurore de la Martineau,Nurse,Night
+34586903,108535,Alf Rosenow,Physician,Night
+56351031,307403,Pierre Turpin,Nurse,Day
+56351031,992470,Larry Lowe,Technician,Night
+43747354,973262,Germán de Estévez,Intern,Evening
+58738582,386181,Sybille Seifert,Technician,Evening
+58738582,7596,عزّ الدّين آل معيض,Resident,Night
+59772221,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+59772221,531506,Curro Tena Izaguirre,Nurse,Night
+59772221,36803,Frédérique de Rey,Resident,Day
+54488331,769560,Margot Foucher,Technician,Evening
+2903436,664769,Calvin Clark,Technician,Day
+3832946,766870,عبد الواحد المهنا,Physician,Evening
+71528756,502703,Mia Schmiedt,Intern,Day
+98880860,992470,Larry Lowe,Technician,Night
+98880860,485384,Gabriel Allard,Nurse,Night
+33925085,485384,Gabriel Allard,Nurse,Night
+88431704,88236,Jennifer Rice,Physician,Day
+69838841,345587,أفراح كانو,Technician,Day
+16822472,991291,Matteo Baum B.Eng.,Physician,Day
+16822472,307403,Pierre Turpin,Nurse,Day
+16822472,41208,Matthieu Royer de la Brunet,Resident,Day
+76120423,751163,Dr. Aynur Flantz,Resident,Night
+10560304,577770,Steven Huynh,Nurse,Evening
+1279130,766870,عبد الواحد المهنا,Physician,Evening
+38784975,173454,Guy Philippe,Technician,Evening
+1456313,314159,الأستاذة بشرى أبو داوود,Technician,Day
+68699094,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+68699094,573492,Luis Ángel Casado Porta,Technician,Evening
+49165545,231570,ديمه أبو داوود,Resident,Day
+45116309,36803,Frédérique de Rey,Resident,Day
+45116309,650680,Marcus Koch,Technician,Night
+44800561,230145,المهندسة إباء آل العسكري,Technician,Night
+44800561,842785,Aimée Lemonnier,Physician,Day
+44800561,618066,طارق الراشد,Resident,Day
+81809623,819149,لوليا آل مقطة,Technician,Evening
+94062649,88236,Jennifer Rice,Physician,Day
+90847755,82988,Edgar Frederick,Technician,Night
+44970234,41208,Matthieu Royer de la Brunet,Resident,Day
+12924014,173454,Guy Philippe,Technician,Evening
+20502680,88236,Jennifer Rice,Physician,Day
+20502680,991291,Matteo Baum B.Eng.,Physician,Day
+91412599,991291,Matteo Baum B.Eng.,Physician,Day
+32668453,651483,Anke Trubin,Resident,Evening
+32668453,973262,Germán de Estévez,Intern,Evening
+32668453,819149,لوليا آل مقطة,Technician,Evening
+98782871,687256,Pedro Hierro,Physician,Evening
+77905906,231570,ديمه أبو داوود,Resident,Day
+77905906,184508,قائد فصيل,Resident,Night
+77905906,82988,Edgar Frederick,Technician,Night
+27406708,173454,Guy Philippe,Technician,Evening
+51079130,146284,عتيد أبا الخيل,Intern,Day
+51079130,771619,Aurore de la Martineau,Nurse,Night
+40608516,173454,Guy Philippe,Technician,Evening
+33467148,573492,Luis Ángel Casado Porta,Technician,Evening
+99473103,766870,عبد الواحد المهنا,Physician,Evening
+80494134,948207,Mariah Smith,Intern,Night
+80494134,963708,Sibylla Pohl B.Eng.,Physician,Night
+29100676,573492,Luis Ángel Casado Porta,Technician,Evening
+56559596,664769,Calvin Clark,Technician,Day
+56559596,766870,عبد الواحد المهنا,Physician,Evening
+3800292,863103,Prof. Bernward Hahn B.A.,Nurse,Night
+80697187,577770,Steven Huynh,Nurse,Evening
+85064519,664769,Calvin Clark,Technician,Day
+79418272,843504,Meagan Fitzpatrick,Intern,Evening
+36108975,333230,Juan Francisco Herrera Grande,Nurse,Night
+3006510,36803,Frédérique de Rey,Resident,Day
+71454234,173454,Guy Philippe,Technician,Evening
+95215050,386181,Sybille Seifert,Technician,Evening
+95215050,88236,Jennifer Rice,Physician,Day
+95215050,108535,Alf Rosenow,Physician,Night
+43774929,36803,Frédérique de Rey,Resident,Day
+14119221,573492,Luis Ángel Casado Porta,Technician,Evening
+74510615,687256,Pedro Hierro,Physician,Evening
+26093925,88236,Jennifer Rice,Physician,Day
+67940594,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+67940594,650680,Marcus Koch,Technician,Night
+7498244,218344,Ing. Rebekka Schweitzer,Resident,Day
+7498244,41208,Matthieu Royer de la Brunet,Resident,Day
+7498244,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+73371528,819149,لوليا آل مقطة,Technician,Evening
+6126241,218344,Ing. Rebekka Schweitzer,Resident,Day
+212444,751163,Dr. Aynur Flantz,Resident,Night
+212444,650680,Marcus Koch,Technician,Night
+72915300,664769,Calvin Clark,Technician,Day
+20877389,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+82436395,618066,طارق الراشد,Resident,Day
+65239049,36803,Frédérique de Rey,Resident,Day
+57075536,963708,Sibylla Pohl B.Eng.,Physician,Night
+57075536,82988,Edgar Frederick,Technician,Night
+57075536,108535,Alf Rosenow,Physician,Night
+69726134,386181,Sybille Seifert,Technician,Evening
+69726134,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+34613738,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+34613738,766870,عبد الواحد المهنا,Physician,Evening
+34613738,82988,Edgar Frederick,Technician,Night
+25789377,819149,لوليا آل مقطة,Technician,Evening
+23530456,843504,Meagan Fitzpatrick,Intern,Evening
+51082414,345587,أفراح كانو,Technician,Day
+51082414,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+51082414,573492,Luis Ángel Casado Porta,Technician,Evening
+67893016,88236,Jennifer Rice,Physician,Day
+67893016,531506,Curro Tena Izaguirre,Nurse,Night
+59000778,173454,Guy Philippe,Technician,Evening
+59000778,146284,عتيد أبا الخيل,Intern,Day
+59000778,991291,Matteo Baum B.Eng.,Physician,Day
+6668280,664769,Calvin Clark,Technician,Day
+6668280,41208,Matthieu Royer de la Brunet,Resident,Day
+68125503,562838,Jose Angel Goñi,Technician,Night
+48232736,766870,عبد الواحد المهنا,Physician,Evening
+41904518,687256,Pedro Hierro,Physician,Evening
+12626644,333230,Juan Francisco Herrera Grande,Nurse,Night
+12626644,314159,الأستاذة بشرى أبو داوود,Technician,Day
+12626644,766870,عبد الواحد المهنا,Physician,Evening
+79331568,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+79331568,184508,قائد فصيل,Resident,Night
+28136044,7596,عزّ الدّين آل معيض,Resident,Night
+35881582,173454,Guy Philippe,Technician,Evening
+35881582,819149,لوليا آل مقطة,Technician,Evening
+35881582,36803,Frédérique de Rey,Resident,Day
+86684852,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+70262474,650680,Marcus Koch,Technician,Night
+61462824,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+25248318,434871,Bernhard Ruppersberger,Nurse,Evening
+98854952,36803,Frédérique de Rey,Resident,Day
+54097795,41208,Matthieu Royer de la Brunet,Resident,Day
+54097795,651483,Anke Trubin,Resident,Evening
+9424852,991291,Matteo Baum B.Eng.,Physician,Day
+9424852,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+9424852,842785,Aimée Lemonnier,Physician,Day
+70221970,650680,Marcus Koch,Technician,Night
+70221970,7596,عزّ الدّين آل معيض,Resident,Night
+14889591,618066,طارق الراشد,Resident,Day
+14889591,218344,Ing. Rebekka Schweitzer,Resident,Day
+14889591,963708,Sibylla Pohl B.Eng.,Physician,Night
+69046496,651483,Anke Trubin,Resident,Evening
+42768366,434871,Bernhard Ruppersberger,Nurse,Evening
+42768366,30217,Nadia Patiño Arjona,Physician,Night
+42768366,577770,Steven Huynh,Nurse,Evening
+23011795,973262,Germán de Estévez,Intern,Evening
+23011795,664769,Calvin Clark,Technician,Day
+51123441,687256,Pedro Hierro,Physician,Evening
+51123441,618066,طارق الراشد,Resident,Day
+51123441,333230,Juan Francisco Herrera Grande,Nurse,Night
+1683148,386181,Sybille Seifert,Technician,Evening
+57919385,434871,Bernhard Ruppersberger,Nurse,Evening
+72288934,991291,Matteo Baum B.Eng.,Physician,Day
+72288934,651483,Anke Trubin,Resident,Evening
+18392687,651483,Anke Trubin,Resident,Evening
+18392687,345587,أفراح كانو,Technician,Day
+9743186,82988,Edgar Frederick,Technician,Night
+9743186,218344,Ing. Rebekka Schweitzer,Resident,Day
+9743186,345587,أفراح كانو,Technician,Day
+86146027,307403,Pierre Turpin,Nurse,Day
+86146027,333230,Juan Francisco Herrera Grande,Nurse,Night
+86146027,434871,Bernhard Ruppersberger,Nurse,Evening
+6445875,88236,Jennifer Rice,Physician,Day
+10154079,184508,قائد فصيل,Resident,Night
+10154079,386181,Sybille Seifert,Technician,Evening
+10154079,766870,عبد الواحد المهنا,Physician,Evening
+5944395,687256,Pedro Hierro,Physician,Evening
+89084686,819149,لوليا آل مقطة,Technician,Evening
+29741185,314159,الأستاذة بشرى أبو داوود,Technician,Day
+29230509,577770,Steven Huynh,Nurse,Evening
+75880193,757491,Anneke Segebahn B.Eng.,Technician,Day
+75880193,314159,الأستاذة بشرى أبو داوود,Technician,Day
+20117385,687256,Pedro Hierro,Physician,Evening
+20117385,173454,Guy Philippe,Technician,Evening
+11888669,573492,Luis Ángel Casado Porta,Technician,Evening
+11888669,108535,Alf Rosenow,Physician,Night
+11888669,992470,Larry Lowe,Technician,Night
+91551834,771619,Aurore de la Martineau,Nurse,Night
+29526617,842785,Aimée Lemonnier,Physician,Day
+29526617,562838,Jose Angel Goñi,Technician,Night
+29526617,82988,Edgar Frederick,Technician,Night
+48173732,577770,Steven Huynh,Nurse,Evening
+38593733,992470,Larry Lowe,Technician,Night
+11448451,998838,Constanza Menendez Carmona,Intern,Day
+11448451,757491,Anneke Segebahn B.Eng.,Technician,Day
+11448451,307403,Pierre Turpin,Nurse,Day
+12221592,41208,Matthieu Royer de la Brunet,Resident,Day
+50361722,935868,Steven Wang,Technician,Day
+23722111,751163,Dr. Aynur Flantz,Resident,Night
+23722111,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+20696759,687256,Pedro Hierro,Physician,Evening
+20696759,307403,Pierre Turpin,Nurse,Day
+20696759,30217,Nadia Patiño Arjona,Physician,Night
+66008996,485384,Gabriel Allard,Nurse,Night
+28940365,7596,عزّ الدّين آل معيض,Resident,Night
+28940365,998838,Constanza Menendez Carmona,Intern,Day
+46112177,173454,Guy Philippe,Technician,Evening
+50363260,664769,Calvin Clark,Technician,Day
+50363260,769560,Margot Foucher,Technician,Evening
+62011463,82988,Edgar Frederick,Technician,Night
+92545348,184508,قائد فصيل,Resident,Night
+92545348,82988,Edgar Frederick,Technician,Night
+92545348,687256,Pedro Hierro,Physician,Evening
+49202472,687256,Pedro Hierro,Physician,Evening
+2461091,843504,Meagan Fitzpatrick,Intern,Evening
+2461091,184508,قائد فصيل,Resident,Night
+2461091,108535,Alf Rosenow,Physician,Night
+9854380,531506,Curro Tena Izaguirre,Nurse,Night
+9854380,108535,Alf Rosenow,Physician,Night
+9854380,973262,Germán de Estévez,Intern,Evening
+22374924,992470,Larry Lowe,Technician,Night
+22374924,766870,عبد الواحد المهنا,Physician,Evening
+22374924,769560,Margot Foucher,Technician,Evening
+9308292,41208,Matthieu Royer de la Brunet,Resident,Day
+9308292,769560,Margot Foucher,Technician,Evening
+9308292,687256,Pedro Hierro,Physician,Evening
+21392342,88236,Jennifer Rice,Physician,Day
+26978866,88236,Jennifer Rice,Physician,Day
+95266847,843504,Meagan Fitzpatrick,Intern,Evening
+886608,88236,Jennifer Rice,Physician,Day
+3265716,650680,Marcus Koch,Technician,Night
+3265716,573492,Luis Ángel Casado Porta,Technician,Evening
+3265716,948207,Mariah Smith,Intern,Night
+5079808,992470,Larry Lowe,Technician,Night
+5079808,687256,Pedro Hierro,Physician,Evening
+5079808,231570,ديمه أبو داوود,Resident,Day
+84576645,751163,Dr. Aynur Flantz,Resident,Night
+57369850,618066,طارق الراشد,Resident,Day
+40488920,314159,الأستاذة بشرى أبو داوود,Technician,Day
+40488920,948207,Mariah Smith,Intern,Night
+74394211,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+74394211,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+86844580,843504,Meagan Fitzpatrick,Intern,Evening
+86844580,108535,Alf Rosenow,Physician,Night
+86844580,664769,Calvin Clark,Technician,Day
+66106140,30217,Nadia Patiño Arjona,Physician,Night
+91427192,948207,Mariah Smith,Intern,Night
+62656586,771619,Aurore de la Martineau,Nurse,Night
+62656586,687256,Pedro Hierro,Physician,Evening
+62656586,218344,Ing. Rebekka Schweitzer,Resident,Day
+33234969,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+33234969,984109,Isaac Pruvost-Andre,Intern,Night
+33234969,757491,Anneke Segebahn B.Eng.,Technician,Day
+10365345,766870,عبد الواحد المهنا,Physician,Evening
+94199653,618066,طارق الراشد,Resident,Day
+50863024,935868,Steven Wang,Technician,Day
+50863024,766870,عبد الواحد المهنا,Physician,Evening
+50863024,819149,لوليا آل مقطة,Technician,Evening
+98077702,230145,المهندسة إباء آل العسكري,Technician,Night
+98077702,751163,Dr. Aynur Flantz,Resident,Night
+98077702,562838,Jose Angel Goñi,Technician,Night
+78936241,984109,Isaac Pruvost-Andre,Intern,Night
+78936241,991291,Matteo Baum B.Eng.,Physician,Day
+78936241,307403,Pierre Turpin,Nurse,Day
+19375395,618066,طارق الراشد,Resident,Day
+81895431,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+19612337,618066,طارق الراشد,Resident,Day
+19612337,687256,Pedro Hierro,Physician,Evening
+19612337,485384,Gabriel Allard,Nurse,Night
+96571784,36803,Frédérique de Rey,Resident,Day
+65443891,577770,Steven Huynh,Nurse,Evening
+14857403,88236,Jennifer Rice,Physician,Day
+98606442,562838,Jose Angel Goñi,Technician,Night
+98606442,184508,قائد فصيل,Resident,Night
+28623258,88236,Jennifer Rice,Physician,Day
+3019298,796375,Ing. Hans-Hermann Kobelt B.A.,Intern,Night
+83365740,819149,لوليا آل مقطة,Technician,Evening
+52951097,386181,Sybille Seifert,Technician,Evening
+19627112,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+19627112,231570,ديمه أبو داوود,Resident,Day
+19627112,218344,Ing. Rebekka Schweitzer,Resident,Day
+31018741,991291,Matteo Baum B.Eng.,Physician,Day
+61233678,991291,Matteo Baum B.Eng.,Physician,Day
+15386869,769560,Margot Foucher,Technician,Evening
+78087897,386181,Sybille Seifert,Technician,Evening
+39812995,843504,Meagan Fitzpatrick,Intern,Evening
+78459332,345587,أفراح كانو,Technician,Day
+49005606,991291,Matteo Baum B.Eng.,Physician,Day
+95211524,577770,Steven Huynh,Nurse,Evening
+68147127,766870,عبد الواحد المهنا,Physician,Evening
+68147127,30217,Nadia Patiño Arjona,Physician,Night
+68147127,650680,Marcus Koch,Technician,Night
+51029442,230145,المهندسة إباء آل العسكري,Technician,Night
+51029442,819149,لوليا آل مقطة,Technician,Evening
+51029442,531506,Curro Tena Izaguirre,Nurse,Night
+52078805,766870,عبد الواحد المهنا,Physician,Evening
+69153459,573492,Luis Ángel Casado Porta,Technician,Evening
+64434884,963708,Sibylla Pohl B.Eng.,Physician,Night
+85253460,998838,Constanza Menendez Carmona,Intern,Day
+84592283,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+84592283,984109,Isaac Pruvost-Andre,Intern,Night
+84592283,173454,Guy Philippe,Technician,Evening
+27435671,108535,Alf Rosenow,Physician,Night
+27435671,173454,Guy Philippe,Technician,Evening
+69746272,173454,Guy Philippe,Technician,Evening
+18279265,577770,Steven Huynh,Nurse,Evening
+63069600,963708,Sibylla Pohl B.Eng.,Physician,Night
+63069600,998838,Constanza Menendez Carmona,Intern,Day
+63069600,36803,Frédérique de Rey,Resident,Day
+6940882,307403,Pierre Turpin,Nurse,Day
+95500707,230145,المهندسة إباء آل العسكري,Technician,Night
+74059739,173454,Guy Philippe,Technician,Evening
+74059739,948207,Mariah Smith,Intern,Night
+74059739,146284,عتيد أبا الخيل,Intern,Day
+65458272,485384,Gabriel Allard,Nurse,Night
+65458272,687256,Pedro Hierro,Physician,Evening
+65458272,386181,Sybille Seifert,Technician,Evening
+43173669,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+43173669,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+43173669,819149,لوليا آل مقطة,Technician,Evening
+40428668,769560,Margot Foucher,Technician,Evening
+40428668,573492,Luis Ángel Casado Porta,Technician,Evening
+52753367,650680,Marcus Koch,Technician,Night
+49656735,485384,Gabriel Allard,Nurse,Night
+49656735,935868,Steven Wang,Technician,Day
+49656735,991291,Matteo Baum B.Eng.,Physician,Day
+37360160,842785,Aimée Lemonnier,Physician,Day
+94040473,314159,الأستاذة بشرى أبو داوود,Technician,Day
+94040473,164281,Jens-Peter Kostolzin MBA.,Resident,Night
+7605916,992470,Larry Lowe,Technician,Night
+77356246,307403,Pierre Turpin,Nurse,Day
+84319979,650680,Marcus Koch,Technician,Night
+84319979,184508,قائد فصيل,Resident,Night
+87839642,82988,Edgar Frederick,Technician,Night
+26263162,314159,الأستاذة بشرى أبو داوود,Technician,Day
+26263162,36803,Frédérique de Rey,Resident,Day
+10886912,948207,Mariah Smith,Intern,Night
+59237494,82988,Edgar Frederick,Technician,Night
+24685169,651483,Anke Trubin,Resident,Evening
+66209282,991291,Matteo Baum B.Eng.,Physician,Day
+43889118,984109,Isaac Pruvost-Andre,Intern,Night
+91696368,948207,Mariah Smith,Intern,Night
+43016504,687256,Pedro Hierro,Physician,Evening
+30487421,7596,عزّ الدّين آل معيض,Resident,Night
+50360046,998838,Constanza Menendez Carmona,Intern,Day
+47381013,345587,أفراح كانو,Technician,Day
+78559055,618066,طارق الراشد,Resident,Day
+51014038,963708,Sibylla Pohl B.Eng.,Physician,Night
+35198267,230145,المهندسة إباء آل العسكري,Technician,Night
+10681992,184508,قائد فصيل,Resident,Night
+3130657,184508,قائد فصيل,Resident,Night
+9041020,36803,Frédérique de Rey,Resident,Day
+9041020,664769,Calvin Clark,Technician,Day
+9041020,998838,Constanza Menendez Carmona,Intern,Day
+29225612,230145,المهندسة إباء آل العسكري,Technician,Night
+64619714,88236,Jennifer Rice,Physician,Day
+98389131,674624,Águeda Delia Figueras Tolosa,Nurse,Evening
+96756659,108535,Alf Rosenow,Physician,Night
+96756659,766870,عبد الواحد المهنا,Physician,Evening
